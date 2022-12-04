@@ -1,0 +1,912 @@
+Page 76
+----------------------------------------------------------------------------------------------------CHAPTER TWO
+Mozi
+Introduction
+Mozi \!, “Master Mo,” (c. 480–390 B.C.E.) founded what came to be
+known as the Mojia“Mohist School” of philosophy and is the figure
+around whom the text known as the Moziwas formed. His proper name is
+Mo Di \]. Mozi is arguably the first true philosopher of China known to
+us. He developed systematic analyses and criticisms of his opponents’ posi-
+tions and presented an array of arguments in support of his own philo-sophical views. His interest and faith in argumentation led him and hislater followers to study the forms and methods of philosophical debate, andtheir work contributed significantly to the development of early Chinesephilosophy. Mozi himself was probably of quite humble origins. He mayhave been a member of the craft or artisan class, and his philosophy is dis-tinctively antiaristocratic. Early in life, he may have studied with followersof Confucius. However, he went on to become a serious critic of the emerg-ing Confucian tradition.
+1
+Mozi was not just a philosopher. He led an organized utopian movement
+whose members engaged in direct social action, including the military de-fense of states and cities that he judged to be victims of wars of expansion.He was a strong and charismatic leader who inspired his followers to dedicate
+themselves to his unique view of social justice. This required them to leadaustere and quite demanding lives under his direct control and command.Mozi could tax his followers, judge, and punish them; under certain circum-
+1During Kongzi’s life and after his death, people began to declare themselves followers
+of Kongzi and his Way. At this point, it makes sense to describe these people as constitut-
+ing a “Confucian” tradition or “Confucianism.”Page 77
+----------------------------------------------------------------------------------------------------stances he could even put them to death. The discipline that defined his
+movement is reflected in a number of his philosophical positions. His idealstate is highly centralized, orderly, and ideologically unified.
+Mozi saw ideological differences and the factionalism they spawned as
+the primary source of human suffering. Therefore, he sharply criticized thefamily-based ethical and political system of Kongzi for its inherent partial-ity and advocated a strict chain of command leading up through a monarchand resting in Heaven. In place of Confucian ren1“benevolence” he ad-
+vocated a form of state consequentialism, which sought to maximize three
+basic goods: the wealth, order, and population of the state. As an alterna-tive to Confucian familial love, he argued for jian’ai^_ , which is often
+translated as “universal love” but is better understood as “impartial care.”In Mozi’s view, the central ethical problem was excessive partiality , not a
+lack of compassion . His primary goal was to change and shape behavior—
+in particular the way people are treated—not to cultivate emotions, atti-tudes, or virtues. He showed little interest in what one would call moralpsychology and embraced a simple and highly malleable view of human na-ture. This led him away from the widely observed Chinese concern withself-cultivation. His general lack of appreciation for psychological goodsand the need to control desires and shape dispositions and attitudes also ledhim to reject categorically the characteristic Confucian concern with cul-ture and ritual. These views are expressed in his arguments against elabo-rate funerals and musical performances, two mainstays of Confucianism.
+While Mozi was not a self-cultivationist, he believed that human beings
+can change even apparently deeply held attitudes and dispositions quicklyand easily. For a variety of reasons, he maintained that people could be in-duced to take up almost any form of behavior, even behavior that was sui-cidal. He shared a commonly held early Chinese belief in a psychologicaltendency to respond in kind to the treatment one receives. He further be-lieved that in an effort to win the favor of their rulers, many people are in-clined to act as their rulers desire. Those who do not respond to either ofthese influences can be motivated and controlled by a system of strict re-wards and punishments, enforced by the state and guaranteed by the sup-port of Heaven, ghosts, and spirits. Most important of all, Mozi believedthat properly crafted rational arguments provide strong if not entirely com-pelling motivation to act for anyone who is able to understand them; pre-sented with a superior argument, thinking people act accordingly.
+Mozi’s later followers lasted until the time of the short-lived Qin dynasty
+when the movement seems to have suddenly come to an end. The reasons56 ■moziPage 78
+----------------------------------------------------------------------------------------------------for this are not well documented, but most likely a paramilitary group such
+as the Mohists would never have been tolerated by and could not surviveduring the centralized and militarized regime of the Qin. There is someirony in this as several prominent ideas in the Fajia “Legalist” thought that
+served as the state ideology of the Qin find clear precedents in Mozi’s phi-losophy. The later Mohists continued Mozi’s early interests and developedsophisticated systems of logical analysis, mathematics, optics, physics, de-fensive warfare technology and strategy, and a formal ethic based upon cal-culations of benefit and harm. All of these philosophical concerns can befound in the early strata of the Mozithat are represented in the following
+selections.
+Chapter Eight: Honoring the Worthy2
+Our teacher Mozi3says, “The kings, dukes, and great officials who now
+rule the various states all want their states to be wealthy, their populations
+great, and their administrations orderly, and yet instead of wealth they getpoverty, instead of great populations they get meager ones, and instead oforder they get chaos. In this way they fundamentally miss what they desireand get what they dislike.”
+What is the reason for this?
+4
+Our teacher Mozi says, “This is because the kings, dukes, and great of-
+ficials who rule the various states are not able to honor the worthy and em-ploy the capable in carrying out their rule. And so in a state where there aremany worthy men, good order will be secure, and in a state where there arefew worthy men good order will be tenuous. This is why it is the propermozi ■57
+2There are multiple versions of many of the central chapters of the Mozi;these probably
+reflect the views of the three different sects of Mohism, which appeared after Mozi’s death.
+I have chosen what I consider to be the most interesting version of each chapter translated
+here. Our chapter headings refer to the primary divisions in standard editions of the com-plete text.
+3The Moziis unique among early Chinese philosophical texts in the manner in which it
+refers to its author. Most philosophers of the period were referred to as “Master so-and-so”
+by adding the honorific zi!after the person’s surname (see Important T erms ). In the case
+of Mo Di \] this would yield “Mozi.” But the Mohists refer to their master as zimozi
+!\! . This probably meant “Our teacher Master Mo.” A similar prefixed use of ziis found
+in the Gongyang commentary to the Spring and Autumn Annals .
+4The Mozioften employs the literary device of an unnamed interlocutor to carry forth
+the dialogue.Page 79
+----------------------------------------------------------------------------------------------------work of kings, dukes, and great officers to increase the number of worthy
+men in their states.”
+Since this is the case, what is the best way to go about increasing the
+number of worthy men?
+Our teacher Mozi says, “It is analogous to the case of wanting to increase
+the number of good archers or charioteers in one’s state. One must rewardand esteem them, revere and praise them; then one can succeed in increas-ing the number of good archers or charioteers in one’s state. How muchmore should this be done in the case of worthy men—those who are wellversed in virtuous conduct, discriminating in discussion, and broadly
+knowledgeable! Such men are state treasures, guardians of the altars to thesoil and grain.
+5They too must be rewarded and esteemed, revered and
+praised; then one can succeed in increasing the number of worthy men inone’s state.
+“This is why in ancient times, when the sage-kings ruled, they an-
+nounced that:
+Those who are not righteous, I shall not enrich.Those who are not righteous, I shall not esteem.Those who are not righteous, I shall not regard as kin.Those who are not righteous, I shall not get close to.
+When the wealthy and eminent in the state heard this they retired andthought to themselves, ‘At first, we could rely on our wealth and eminence,but now the king promotes the righteous and does not turn away the poorand the humble. This being the case, we too must be righteous.’ When theking’s relatives heard this they retired and thought to themselves, ‘At first, wecould rely on being royal kin, but now the king promotes the righteous anddoes not turn away the most distant relations. This being the case, we toomust be righteous.’ When those close to the king heard this they retired andthought to themselves, ‘At first, we could rely on being close to the king, butnow the king promotes the righteous and does not turn away those far re-moved from him. This being the case, we too must be righteous.’ Whenthose far removed from the king heard this they too retired and thought tothemselves, ‘At first, we thought that being far removed from the king meant58 ■mozi
+5The site of important state sacrifices and often used as a metaphor for the foundation
+and stability of the state. Cf. Mozi’s various references to this and other sacrificial sites in
+“On Ghosts.” See Mozi, chapter 31, pp. 90–100.Page 80
+----------------------------------------------------------------------------------------------------we had nothing to rely upon, but now the king promotes the righteous and
+does not turn away those far removed from him. This being the case, we too
+must be righteous.’ The word spread to those serving in distant cities andoutlying regions, to the sons of nobles serving within the court, to all thosewithin the capital, and on out to the common people throughout the fourcorners of the kingdom. Hearing this, they all strove to be righteous.”
+What is the reason for such success?Our teacher Mozi says, “Because those above employed those below for
+only one reason and those below served those above in only one way.
+6This
+state of affairs can be compared to the case of a rich man who builds a highwall around his house. Once the wall is complete, he has it cut through inone place and uses this for his door. If a thief should enter, the rich mancan close the door and search for the thief, knowing that he has no way toescape. Why? Because the rich man has secured what is most vital.
+“This is why in ancient times, when the sage-kings ruled, they promoted
+the virtuous and honored the worthy. Even someone who worked as afarmer, artisan, or merchant, if they had talent they were promoted, givenhigh rank and a handsome salary, entrusted with responsibility, and em-powered to have their orders obeyed. The sage-kings said, ‘If their rank isnot high, the people will not revere them. If their salary is not substantial,the people will not put trust in them. If their orders are not empoweredwith authority, the people will not hold them in awe.’ These three thingswere given to the worthy not as rewards but in order to help them com-
+plete their duties.
+“And so, at that time, rank was awarded on the basis of virtue, work was
+assigned according to office, reward was distributed according to theamount of labor done, and salary allotted in proportion to the effort ex-pended. And so officials were not guaranteed constant nobility and peopledid not have to perpetually remain in a humble state. Those with abilitywere promoted, those without ability were demoted. This is what it means
+to, ‘Promote public righteousness and prevent private resentment.’
+7
+“And so, in ancient times, Yao promoted Shun from southern Fuyang,8
+entrusted him with the administration of his kingdom, and the world wasat peace. Yu promoted Yi from central Yinfang, entrusted him with the ad-ministration of his kingdom, and the nine realms were brought to perfec-mozi ■59
+6That is, people were evaluated and served only on the basis of their righteousness.
+7This seems to have been a recognizable political slogan of the time.
+8A place of uncertain location.Page 81
+----------------------------------------------------------------------------------------------------tion.9 Tang promoted Yi Yin from among the cooks in his kitchen, en-
+trusted him with the administration of his kingdom, and his plans all were
+successful. King Wen promoted Hong Yao and Tai Yi from their work withrabbit snares, entrusted them with the administration of his kingdom, andthe western territories submitted peacefully.
+10 And so, at that time, even
+among those ministers with substantial salaries and prestigious positions,none failed to be reverent and cautious in carrying out their duties, andeven among the farmers, craftsmen, and merchants, none failed to exertthemselves in honoring virtue.
+“And so good men should be employed as capable assistants and respon-
+sible agents. If a ruler is able to retain such men, then his plans will not befrustrated nor his body wearied with work. A ruler’s fame shall be assured andhis work successfully completed, his best tendencies will flourish and hisworst shall not take form all because he retains the support of good men.”
+This is why our teacher Mozi says, “When things are going well, you
+must promote worthy men. When things are not going well, you must pro-mote worthy men. And if you would reverently carry on the Way of Yao,Shun, Yu, and Tang, then you must honor the worthy. Honoring the wor-
+thy is the root and basis of good government.”
+Chapter Eleven: Obeying One’s Superior
+Our teacher Mozi says, “In ancient times, when people first came into
+being and before there were governments or laws, each person followedtheir own norm
+11for deciding what was right and wrong.12And so where60 ■mozi
+9Yi is Bo Yi `a (not to be confused with the brother of Shu Qi—see Important Fig-
+ures). Bo Yi assisted Yu in his flood-control work and served him as an exemplary minister.
+Yinfang is a place of uncertain location. According to an ancient system of territorial divi-
+sion, China consisted of “nine realms.”
+10Hong Yao and Tai Yi were gamekeepers for King Wen. Technically, “rabbit snares”
+should be rendered “rabbit nets.” See selection # 177 ( Mao # 278) in Arthur Waley, The
+Book of Songs (London: Allen and Unwin, 1952) for a poem singing the praises of such a
+gamekeeper, describing him as a fitting companion and confidant for a king. (Note: The
+Book of Songs is Waley’s translation of the classic referred to in this volume as the Odes).
+11The character yi?that I here translate as “norm” (for deciding what is right and
+wrong) is often rendered as “right” or “righteousness” (see Important T erms ). The senses are
+clearly related, but the context here argues for “norm” as more appropriate.
+12“Right and wrong” is the translation of the Chinese terms shi/feibc . Below, these
+terms are rendered verbally as “to approve” and “to condemn.” Cf. Mengzi 2A6 and n. 27
+to that passage.Page 82
+----------------------------------------------------------------------------------------------------there was one person there was one norm, where there were two people
+there were two norms, where there were ten people there were ten differentnorms. As many people as there were, that was how many norms were rec-ognized. In this way people came to approve their own norms for what isright and wrong and thereby condemn the norms of others. And so theymutually condemned each other’s norms. For this reason, within families,there was resentment and hatred between fathers and sons and elder andyounger brothers that caused them to separate and disperse and made it
+impossible for them to cooperate harmoniously with one another.Throughout the world, people used water, fire, and poison to harm and in-jure one another, to the point where if they had strength to spare, theywould not use it to help each other, if they had excess goods, they wouldleave them to rot away rather than distribute them to one another, and ifthey had helpful teachings, they would hide them away rather than teachthem to one another. The chaos that ruled in the world was like what onefinds among the birds and beasts.
+“Those who understood the nature of this chaos saw that it arose from
+a lack of rulers and leaders and so they chose the best person among themost worthy and capable in the world and established him as the Son ofHeaven. The Son of Heaven was established, but because his strength was
+not sufficient for the task of ruling the entire world, they chose among themost worthy and capable in the world and installed the best among themas the three imperial ministers. The Son of Heaven and three imperial min-isters were established, but because the world is so vast it was impossible forthem to know and judge in each case what would be right or wrong, ben-eficial or harmful for the people of distant states and different regions. Andso they divided up the myriad states and established feudal lords and rulers.The feudal lords and rulers were established, but because their strength wasnot sufficient for the task before them, they chose among the most worthyand capable in the world and installed them as governors and leaders.
+“Once the governors and leaders were in place, the Son of Heaven an-
+nounced his rule to the people of the world saying, ‘Whenever you hear ofsomething good or bad, always inform your superior. Whenever your supe-rior approves of something as right you too must approve of it. Wheneveryour superior condemns something as wrong you too must condemn it.
+Should a superior commit any transgression, one must offer proper remon-
+strance. Should your subordinates do anything good, one must widely rec-ommend them. To obey one’s superior and to avoid joining together withthose in subordinate positions—such conduct will be rewarded by superiorsmozi ■61Page 83
+----------------------------------------------------------------------------------------------------and praised by subordinates. But if you hear of something good or bad and
+fail to inform your superior, if you are not able to approve of what your su-perior approves of and condemn what your superior rejects, if you do notoffer proper remonstrance when a superior commits a transgression and donot widely recommend subordinates who do good, if you do not obey yoursuperior and you join together with those in subordinate positions–such con-duct will be punished by superiors and denounced by the people. This is howsuperiors shall determine rewards and punishments and they shall make care-ful examinations to ensure that their judgments are reliable.’
+“And so, the leader of each village would be the most benevolent person
+in the village. When he announced his rule to the people of the village hewould say, ‘Whenever you hear of anything either good or bad, you mustreport it to the head of the district. Whenever the head of the district ap-
+proves of something all of you must also approve of it. Whenever the headof the district condemns something all of you must also condemn it. Elim-inate any bad teachings that you may have and study the good teachings ofthe head of the district. Eliminate any bad practices that you may have andstudy the good practices of the head of the district. If you do this then howcould the district ever become disordered?’
+“If we look into how good order was maintained in the district, what do
+we find? Was it not simply because the leader of the district was able to
+unify the norms followed within the district that he was able to maintaingood order in it?
+“The leader of each district would be the most benevolent person in the
+district. When he announced his rule to the people of the district he wouldsay, ‘Whenever you hear of anything either good or bad, you must reportit to the ruler of the state. Whenever the ruler of the state approves of some-thing all of you must also approve of it. Whenever the ruler of the statecondemns something all of you must also condemn it. Eliminate any badteachings that you may have and study the good teachings of the ruler ofthe state. Eliminate any bad practices that you may have and study thegood practices of the ruler of the state. If you do this then how could thestate ever become disordered?’
+“If we look into how good order was maintained in the state, what do
+we find? Was it not simply because the ruler of the state was able to unify
+the norms followed within the state that he was able to maintain goodorder in it?
+“The ruler of each state would be the most benevolent person in the
+state. When he announced his rule to the people of the state he would say,62 ■moziPage 84
+----------------------------------------------------------------------------------------------------‘Whenever you hear of anything either good or bad, you must report it to
+the Son of Heaven. Whenever the Son of Heaven approves of something
+all of you must also approve of it. Whenever the Son of Heaven condemnssomething all of you must also condemn it. Eliminate any bad teachingsthat you may have and study the good teachings of the Son of Heaven.Eliminate any bad practices that you may have and study the good prac-
+tices of the Son of Heaven. If you do this then how could the world everbecome disordered?’
+“If we look into how good order was maintained in the world, what do
+we find? Was it not simply because the Son of Heaven was able to unify the
+norms followed within the world that he was able to maintain good orderin it?
+“If the people of the world all obey their superiors on up to the Son of
+Heaven but do not obey Heaven, then Heavenly disasters still will not
+cease. Now, the hurricanes and torrential rains that regularly are visitedupon the people is how Heaven punishes them for not obeying its will.”
+This is why our teacher Mozi says, “In ancient times, sage-kings created
+the Five Punishments
+13to facilitate good order among their people. These
+are like the main thread of a skein of silk or the drawstring of a net. Theyare how the sage-kings gathered in those in the world who refused to obeytheir superiors.”
+Chapter Sixteen: Impartial Caring 
+Our teacher Mozi says, “The business of a benevolent person is to promote
+what is beneficial to the world and eliminate what is harmful.”
+Granted that this is true, what are the greatest harms that are being done
+in the world today? Our teacher Mozi says, “It is things such as great statesattacking small states, great families wreaking havoc with lesser families, thestrong robbing the weak, the many doing violence to the few, the clever de-ceiving the ignorant, and the noble acting arrogantly toward the humble.These are some of the great harms being done in the world. In addition,there are rulers who are not kind, ministers who are not loyal, fathers whoare not loving, and children who are not filial. These too are some of thegreat harms being done in the world. There are also those of low charactermozi ■63
+13The Five Punishments are said to be tatooing the face, cutting off the nose, cutting off
+the feet, castration, and death.Page 85
+----------------------------------------------------------------------------------------------------who use weapons, poison, water, and fire to injure and steal from one an-
+other. These too are some of the great harms done in the world.”
+If we try to discover the origin of these different harms, where do we
+find they come from? Do they come from caring for and benefiting peo-ple? This clearly must be rejected as the origin of these harms. We must rec-ognize that they come from hating and stealing from people. If we wish todistinguish those in the world who hate and steal from people, do we referto them as impartial or partial? We clearly must call them partial. And soit is those who are partial in their dealings with others who are the realcause of all the great harms in the world.
+This is why our teacher Mozi says, “I condemn partiality.”Now those who condemn another’s view must offer something in its
+place. If one condemns another’s view without offering something in itsplace this is like adding water to a flood or flame to a fire. Such appealsprove to have no merit.
+This is why our teacher Mozi says, “Replace partiality with impartiality.”Since this is what is correct, how then can we replace partiality with im-
+partiality?
+Our teacher Mozi says, “If people regarded other people’s states in the
+same way that they regard their own, who then would incite their own stateto attack that of another? For one would do for others as one would do foroneself. If people regarded other people’s cities in the same way that theyregard their own, who then would incite their own city to attack that of an-
+other? For one would do for others as one would do for oneself. If peopleregarded other people’s families in the same way that they regard their own,
+who then would incite their own family to attack that of another? For onewould do for others as one would do for oneself. And so if states and citiesdo not attack one another and families do not wreak havoc upon and stealfrom one another, would this be a harm to the world or a benefit? Ofcourse one must say it is a benefit to the world.”
+If we try to discover the source of these different benefits, where do we
+find they come from? Do they come from hating and stealing from people?This clearly must be rejected as the source of these benefits. We must rec-ognize that they come from caring for and benefitting people. If we wishto distinguish those in the world who care for and benefit people, do werefer to them as impartial or partial? We clearly must call them impartial.
+And so it is those who are impartial in their dealings with others who arethe real cause of all the great benefits in the world.64 ■moziPage 86
+----------------------------------------------------------------------------------------------------This is why our teacher Mozi says, “I approve of impartiality. Moreover,
+earlier I said that, ‘The business of a benevolent person is to promote what
+is beneficial to the world and eliminate what is harmful.’ And now I haveshown that impartiality gives rise to all the great benefits in the world andthat partiality gives rise to all the great harms in the world.”
+This is why our teacher Mozi says, “I condemn partiality and approve of
+impartiality for the reasons given above. If one takes impartiality as the cor-rect standard and truly seeks to promote and procure what is beneficial to
+the world, then those with sharp ears and keen eyes will listen and look outfor others. Those with stout legs and strong arms will work for others, andthose who understand the Way will educate and instruct others. And somen who reach old age without finding a wife and having children will getthe support they need to live out their years. Young and helpless orphans,who are without father or mother, will find the support they need in orderto reach maturity. Now such benefits can be attained only if impartiality istaken as the correct standard. And so I don’t see what reason any person inthe world who has heard about impartiality can give for condemning it.”
+Though this is so, there are still people in the world who condemn im-
+partiality, saying, “It is surely a fine thing. Nevertheless, how can it possi-bly be applied?”
+Our teacher Mozi says, “If it could not be applied even I would condemn
+it! But is there really anything that is fine that cannot be put to use? Let usconsider both sides of the matter. Suppose there were two people: one whomaintains partiality and one who maintains impartiality. And so the personwho maintains partiality would say, ‘How can I possibly regard the well-being of my friends as I do my own well-being? How can I possibly regardthe parents of my friends as I do my own parents?’ And so when his friendsare hungry, the partial person does not feed them. When his friends are cold,he does not clothe them. When his friends are ill, he does not nurture them.And when his friends die, he does not bury them. This is what the partialperson says and what he does. But this is not what the impartial person saysnor is this how he acts. The impartial person says, ‘I have heard that in orderto be a superior person in the world, one must regard the well-being of one’sfriends as one regards one’s own well-being; one must regard the parents ofone’s friends as one regards one’s own parents. Only in this way can one bea superior person.’ And so when the impartial person’s friends are hungry,he feeds them. When his friends are cold, he clothes them. When his friendsare ill, he nurtures them. And when his friends die, he buries them. This iswhat the impartial person says and what he does.mozi ■65Page 87
+----------------------------------------------------------------------------------------------------“Now the words of the two people that we have considered contradict
+each other and their actions are diametrically opposed. Let us suppose,
+though, that both are trustworthy in what they say and reliable in whatthey do. And so their words and deeds fit together like the two halves of atally, and they always follow through and act on what they say. If we grantall of this, there is a further question I would like to ask. Suppose one mustput on one’s armor and helmet and go to war in a vast and open wildernesswhere life and death are uncertain; or suppose one was sent by one’s ruleror high minister to the distant states of Ba, Yue, Qi, or Jing
+14and could not
+be sure of either reaching them or ever returning from one’s mission. Undersuch conditions of uncertainty, to whom would one entrust the well-beingof one’s parents, wife, and children? Would one prefer that they be in thecare of an impartial person or would one prefer that they be in the care ofa partial person? I believe that under such circumstances, there are no foolsin all the world. Even though one may not advocate impartiality, onewould certainly want to entrust one’s family to the person who is impartial.But this is to condemn impartiality in word but prefer it in deed, with the
+result that one’s actions do not accord with what one says. And so I don’t
+see what reason any person in the world who has heard about impartialitycan give for condemning it.”
+Though this is so, there are still people in the world who condemn im-
+partiality, saying, “It is an acceptable way for choosing reliable people butone can’t use it to choose one’s ruler.”
+Our teacher Mozi says, “Let us consider both sides of the matter. Suppose
+there were two rulers: one who maintains impartiality and one who main-tains partiality. And so the ruler who maintains partiality would say, ‘Howcan I possibly regard the well-being of my myriad subjects as I do my ownwell-being? This is profoundly at odds with the way people in the world feel.
+How brief is the span of a person’s life upon this earth! It rushes by like a
+galloping team of horses glimpsed through a crack!’ And so when his sub-jects are hungry, the partial ruler does not feed them. When his subjects arecold, he does not clothe them. When his subjects are ill, he does not nur-ture them. And when his subjects die, he does not bury them. This is whatthe partial ruler says and what he does. But this is not what the impartialruler says nor is this how he acts. The impartial ruler says, ‘I have heard that
+in order to be an enlightened ruler in the world, one must first worry about66 ■mozi
+14Ba, Yue, Qi, and Jing are four ancient states that were far removed from the center of
+Chinese civilization at the time.Page 88
+----------------------------------------------------------------------------------------------------the well-being of one’s people and then worry about oneself. Only in this
+way can one be a enlightened ruler.’ And so when the impartial ruler’s peo-ple are hungry, he feeds them. When his people are cold, he clothes them.When his people are ill, he nurtures them. And when his people die, heburies them. This is what the impartial ruler says and what he does.
+“Now the words of the two rulers that we have considered contradict
+each other and their actions are diametrically opposed. Let us suppose,though, that both are trustworthy in what they say and reliable in whatthey do. And so their words and deeds fit together like the two halves of atally, and they always follow through and act on what they say. If we grantall of this, there is a further question I would like to ask. Suppose there werea terrible epidemic in which most of the people suffered bitterly fromhunger and cold and many lay dead and unburied in the ditches and gul-lies.
+15Between these two rulers, which one would the people then follow?
+I believe that under such circumstances, there are no fools in all the world.Even though one may not advocate impartiality, one would certainly want
+to follow the ruler who is impartial. But this is to condemn impartiality inword but prefer it in deed with the result that one’s actions do not accordwith what one says. And so I don’t see what reason any person in the worldwho has heard about impartiality can give for condemning it.”
+Though this is so, there are still people in the world who condemn im-
+partiality saying, “Impartiality is benevolent and right but how can onepractice it? The impossibility of practicing impartiality is like the impossi-bility of picking up Mount Tai and carrying it across the Chang Jiang orHuang He.”
+16And so impartiality is something they want to do but feel is
+impossible to practice.
+Our teacher Mozi says, “As for picking up Mount Tai and carrying it
+across the Chang Jiang or Huang He, this is something that no humanbeing has ever done. But as for impartially caring for and benefitting oneanother, this is something that we know the four former sage-kings
+17them-
+selves practiced.”mozi ■67
+15People lying unburied in the ditches and gullies was a common trope used to illustrate
+a state of profound misrule. Cf. for example, Mengzi 1B12, 2B4. (not in this volume).
+16Picking up Mount Tai and carrying it across a vast expanse of water is a common trope
+for an impossible task. Cf. Mengzi 1A7 where the vast expanse of water is the North Sea.
+The Chang Jiang or “Yangtze River” and the Huang He or “Yellow River” are the largest
+rivers in central China.
+17Kings Yu, Tang, Wen, and Wu.Page 89
+----------------------------------------------------------------------------------------------------How do we know that the four former sage-kings themselves followed
+these practices?
+Our teacher Mozi says, “I am not of their age or time and so have not
+personally heard their voices or seen their faces, but I know this by what is
+written on bamboo and silk, etched on metal and stone, and inscribed onbasins and bowls that have passed down to us through succeeding genera-tions. For example, the Great Oath
+18says, ‘The illumination of King Wen
+was like the sun and the moon. His brightness reached to the four direc-tions and out to the western regions.’ This describes the extensiveness ofKing Wen’s impartial care for the world. It compares his impartiality to theway the sun and the moon impartially illuminate the entire world withoutshowing any favoritism.”
+Though the impartiality that our teacher Mozi talks about here takes
+King Wen as its model, it is not just in the Great Oath that one finds such
+examples. The Oath of Yu
+19too offers such a model. Yu says,
+Come together all my people and heed my words! It is not thatI, the little one,
+20dares to bring about such chaos; but the ruler
+of the Miao21is ever more unreasonable and deserves Heaven’s
+punishment. This is why I now lead you, the rulers of the vari-ous states, on a campaign to rectify the ruler of the Miao.
+This shows that the reason Yu launched a campaign to rectify the ruler of theMiao was not because he wanted to increase his wealth and honor, earn for
+himself additional favors and blessings, or because it pleased his eyes and ears,but rather because he wanted to contribute to the benefit of the world andeliminate what is harmful to it. Such was the impartiality of Yu.68 ■mozi
+18The “Great Oath” was a speech purportedly given by King Wu. The original was said
+to be included in the History but was lost. A later forgery is included in the present edition
+of the History and part of it is quite similar to what Mozi quotes here. See Legge, The Shoo
+King, pp. 296–97.
+19The Oath of Yu is a lost section of the History that purportedly recorded the words of
+the sage-king Yu. Again a passage that is quite similar to what Mozi quotes can be found in
+the present text. See Legge, The Shoo King , pp. 64–65.
+20The “little one” (literally, “small child”) is a self-deprecating term of self-reference used
+by virtuous kings.
+21The Miao are said to be a people who lived to the southeast in the area of present-day
+Hunan and Hubei.Page 90
+----------------------------------------------------------------------------------------------------Though the impartiality that our teacher Mozi talks about here takes Yu
+as its model, it is not just in the Oath of Yu that one finds such examples.
+TheDeclaration of T ang22too offers such a model. Tang says,
+I, the little one, Lü,23presume to use a dark-colored sacrifice to
+make my announcement to the Lord of Heaven above. I declare
+that Heaven’s great drought is my responsibility. I do not know ifI have committed some offense against those above or below. Ifthere is any merit, I dare not conceal it. If there is any offense, Idare not excuse it. The judgment lies in your mind alone, Lord!If those within my domain have committed any offense, let the
+responsibility rest with me. If I have committed any offense, let
+the responsibility not fall upon those within my domain.
+This shows that while Tang had the honor of being the Son of Heaven andpossessed the wealth of the entire world, he still did not hesitate to presenthimself as an offering in his sacrificial declaration to the Lord on High, theghosts, and the spirits. Such was the impartiality of Tang.
+Though the impartiality that our teacher Mozi talks about here takes
+Tang as its model, it is not just in the Oath of Yu and the Declaration of T ang
+that one finds such examples. The Odes of Zhou
+24too offer such a model.
+The Odes of Zhou say,
+The King’s Way is broad so broad;Without partiality or party.
+The King’s Way is even so even;Without party or partiality.
+Straight as an arrow;mozi ■69
+22The Declaration of T ang is another lost section of the History that purportedly recorded
+the words of the sage-king Tang. However, lines similar to what Mozi here quotes appear in
+Analects , chapter 20. Also similar lines can be found scattered throughout the present An-
+nouncement of T ang section of the History. See Legge, The Shoo King , pp. 184–90.
+23On the “little one” see n. 20. Lü is the personal name of King Tang and in such a pub-
+lic context, this use of the personal name is another humble form of self-reference.
+24This leads us to look in the Odes. However, the present text has only the last four lines
+quoted here ( Mao # 203) with slight variation. The first four lines, though, are found with
+slight variation in the present text of the History . For the last four lines, see James Legge, tr.,
+The Chinese Classics, Volume IV, The She King , reprint (Hong Kong: Hong Kong University
+Press, 1970), p. 353; for the first four, see Legge, The Shoo King , p. 331.Page 91
+----------------------------------------------------------------------------------------------------As even as a whetstone.
+It is what the noble man follows;
+And the common man admires.
+What I have been talking about here is not just some notion or theory. Inancient times, when Kings Wen and Wu ruled, they allocated everythingequitably, rewarding the worthy and punishing the wicked without show-ing any partiality to their relatives or brothers. Such was the impartiality ofKings Wen and Wu. And the impartiality that our teacher Mozi talks abouthere takes Kings Wen and Wu as its models. So I don’t see what reason anyperson in the world who has heard about impartiality can give for con-demning it.
+Though this is so, there are still people in the world who condemn im-
+partiality, saying, “It does not seek what is beneficial for one’s parents, sodoes it not harm filial piety?”
+Our teacher Mozi says, “Let us consider the case of a filial son who
+seeks what is beneficial for his parents. Does a filial son who seeks what isbeneficial for his parents want other people to care for and benefit his par-ents or does he want other people to dislike and steal from his parents? Ac-cording to the very meaning of filial piety, he must want other people tocare for and benefit his parents. Given this, how should one act in orderto bring about such a state of affairs? Should one first care for and benefitthe parents of another, expecting that they in turn will respond by caringfor and benefitting one’s own parents? Or should one first dislike and stealfrom other people’s parents, expecting that they in turn will respond bycaring for and benefitting one’s own parents? Clearly one must first carefor and benefit the parents of others in order to expect that they in turnwill respond by caring for and benefitting one’s own parents. And so forsuch mutually filial sons to realize unlimited good results, must they notfirst care for and benefit other people’s parents? Or should they let it bethe case that filial sons are the exception and not the rule among the peo-ple of the world?
+“Let us consider what is said in the writings of the former kings. In the
+Elegies
+25 it says,70 ■mozi
+25The Elegies are a section in the Odes(seeOdesunder Important T exts ). Only the first
+two lines, with slight variation, appear in the present version of the text. See Legge, The She
+King, p. 514.Page 92
+----------------------------------------------------------------------------------------------------There are no words that are left unanswered,
+No virtue that is left without a response.
+If you toss me a peach,
+I respond with a plum.
+According to these lines, anyone who cares for others will receive care from
+them while anyone who dislikes others will in turn be disliked. And so Idon’t see what reason any person in the world who has heard about impar-tiality can give for condemning it.
+“Perhaps people will think that impartial care is too difficult to carry
+out. But things more difficult than this have been successfully carried out.In the past, King Ling of the state of Chu was fond of slender waists.
+26
+During his reign the people of Chu ate no more than one meal a day and
+became so weak that they could not raise themselves up without the sup-port of a cane nor could they walk without leaning against a wall. Curtail-ing one’s food is something very difficult to do, but masses of people did itin order to please King Ling. Within a single generation the peoplechanged because they wanted to accord with the wishes of their superior.
+“In the past, Gou Jian, King of the state of Yue, was fond of bravery. And
+so he taught his soldiers and subjects to be brave. But since he was not sureif they were really brave he had his ships set aflame and ordered that thedrums signal an advance. His troops fell on top of one another in their for-ward charge and countless numbers of them perished in the water andflames. Even when they ceased drumming, still the troops did not retreat.We can say that the soldiers of Yue were resolute indeed! Charging into
+flames is something very difficult to do, but masses of people did it in orderto please the King of Yue. Within a single generation the people changedbecause they wanted to accord with the wishes of their superior.
+“In the past, Duke Wen of Jin was fond of rough and simple attire. Dur-
+ing his reign the people of Jin wrapped themselves in sheets of cloth, woresheepskin jackets, hats of raw silk, and hempen shoes. They would dressthis way when they had an audience with the Duke and parade around insuch attire at court. Getting people to wear rough and simple attire is some-thing very difficult to do, but masses of people did it in order to pleaseDuke Wen. Within a single generation the people changed because they
+wanted to accord with the wishes of their superior.mozi ■71
+26This and the following story about the King of Yue are also cited by Han Feizi in “The
+Two Handles.” See Hanfeizi , chapter 7, p. 309–10.Page 93
+----------------------------------------------------------------------------------------------------“Curtailing one’s food, charging into flames, and wearing rough and
+simple attire are among the most difficult things in the world to get people
+to do, but masses of people did it in order to please their superiors. Withina single generation the people changed. Why? Because they wanted to ac-cord with the wishes of their superiors.
+“Now as for impartially caring for and benefitting one another, such
+things are incalculably beneficial and easy to practice. The only problem isthat there are no superiors who take delight in them. If only there were su-periors who delighted in them, who encouraged their practice through re-wards and praise, and threatened those who violate them with penaltiesand punishments, I believe that the people would take to impartially car-ing for and benefitting one another just as naturally as fire rises up andwater flows down. One could not stop them from being practiced any-where in the world.
+“And so impartiality is the way of the sage-kings. It offers security to
+kings, dukes, and great officials and provides ample food and clothing tothe myriad people. So for gentlemen there is nothing better than carefullyinquiring into the nature of impartiality and working to carry it out. Thosewho do so are sure to be kind as rulers, loyal as ministers, loving as fathers,filial as sons, good companions as older brothers, and respectful as youngerbrothers. And so any gentleman who wishes to be a kind ruler, loyal min-ister, loving father, filial son, a good companion as an elder brother, and re-spectful as a younger brother cannot but practice the kind of impartiality Ihave been describing. This is the way of the sage-kings and a great benefitto the myriad people.”
+Chapter Seventeen: 
+A Condemnation of Aggressive War
+[Our teacher Mozi says,] “Now suppose someone enters another’s orchardand steals their peaches and plums. When the people hear about this theywill condemn such a person, and if those above who administer the gov-ernment get hold of him they will punish him. Why? Because he takesfrom others in order to benefit himself. Stealing another’s dogs, hogs,chickens, and pigs is even more wrong than entering another’s orchard andstealing their peaches and plums. Why? Because more is taken from others;it is even more inhumane and a more serious crime. Entering another per-son’s stable and stealing their horses and cattle is even more wrong thanstealing their dogs, hogs, chickens and pigs. Why? Because more is taken72 ■moziPage 94
+----------------------------------------------------------------------------------------------------from others. If more is taken from others, it is even more inhumane and a
+more serious crime. Killing an innocent person, stripping him of hisclothes and taking his spear and sword is even more wrong than enteringhis stable and stealing his horses and cattle. Why? Because more is takenfrom others. If more is taken from others, it is even more inhumane and amore serious crime. Up to this point, all the gentlemen of the world knowwell enough to condemn such actions and declare that they are wrong. But
+when it comes to the great wrong of attacking another state, they do notknow enough to condemn it. Rather, they praise this and declare that it isthe right thing to do. Can they be said to understand the difference be-tween right and wrong?
+“Killing someone is wrong and must be punished with execution. But if
+we extrapolate out from this view, then killing ten people is ten times as bad
+and must be punished with ten executions, and killing one hundred peopleis one hundred times as bad and must be punished with one hundred execu-tions. Up to this point, all the gentlemen of the world know well enough tocondemn such actions and declare that they are wrong. But when it comesto the great wrong of attacking another state, they do not know enough tocondemn it. Rather, they praise this and declare that it is the right thing todo. They really do not understand that this is wrong. That is why they recordtheir praise of such activity and hand down these records to later generations.If they really understood that this is wrong, why would they record their
+wrongs and hand them down to later generations?
+“Now suppose there is someone who does the following: when they see a
+little black they say that it is black but when they see a lot of black they saythat it is white. We would just have to say that such a person cannot distin-guish between black and white. Or suppose that when they taste a little bit-terness they say that it is bitter, but when they taste a lot of bitterness theysay that it is sweet. We would just have to say that such a person cannot dis-tinguish between bitter and sweet. But now people see a small wrong andknow enough to condemn it but see the great wrong of attacking anotherstate and do not know enough to condemn it. Rather they praise this and de-clare that it is the right thing to do. Can they be said to understand the dif-ference between right and wrong? This is how we know that the gentlemenof the world are confused about the difference between right and wrong.”mozi ■73Page 95
+----------------------------------------------------------------------------------------------------Chapter Twenty: For Moderation in Expenditures 
+[Our teacher Mozi says,] “When a sage rules a state that state will be twice
+as well off. When a sage rules the empire the empire will be twice as welloff. But they are not made twice as well off by adding territory from with-out. It is rather by eliminating wasteful expenditures within the state thatsuch rulers are able to make them twice as well off. When sage-kings rule,whenever they issue orders, undertake an enterprise, employ the people orexpend their resources, they never do anything that is not useful. And sothey never waste their resources or overburden their people yet are able togenerate great benefits.
+“What is the purpose of clothes? It is to protect us from the cold of win-
+ter and the heat of summer. The proper way to make clothes is such thatthey keep one warm in winter and cool in summer and that is all. What-ever does not contribute to these ends should be eliminated. What is thepurpose of houses? It is to protect us from the wind and cold of winter, theheat and rain of summer, and to keep out robbers and thieves. Once theseends are secured that is all. Whatever does not contribute to these endsshould be eliminated. What is the purpose of armor, shields, and weapons?It is to protect us from bandits, rebels, robbers, and thieves. Should there
+be bandits, rebels, robbers, and thieves, those who have armor, shields, andweapons will be victorious, while those without armor, shields, and
+weapons will not. And so sages work to produce armor, shields, and
+weapons. Whenever they make armor, shields, and weapons they seek to
+make them as light, sharp, strong, and resilient as they can and that is all.Whatever does not contribute to these ends should be eliminated. What isthe purpose of boats and vehicles? Vehicles are used to travel over land andboats are used to travel over water such that one can bring together and ex-change what is beneficial throughout the world. The proper way to makeboats and vehicles is such that they are as light and easy to use as possibleand that is all. Whatever does not contribute to these ends should be elim-inated. In making these various things, sage-kings never add anything thatis not useful. And so they never waste their resources or overburden theirpeople yet are able to generate great benefits.
+“If one could eliminate the fondness that kings, dukes, and great officials
+have for accumulating quantities of pearls and jades, birds and beasts, anddogs and horses, and use this revenue to increase the availability of clothes,houses, armor, shields, weapons, boats, and vehicles—could one double thenumbers of these? Doubling the number of such things would not be hard.What then would it be hard to double? Only the number of people. And yet74 ■moziPage 96
+----------------------------------------------------------------------------------------------------one can also double the number of people. In the past, the sage-kings estab-
+lished a law that said, “No man of twenty can be without a family. Nowoman of fifteen can be without a husband.” Such was the law of the sage-kings. But since the sage-kings have passed away the people have grown re-miss. Those who want to start a family at an early age do so at age twentywhile those who want to start a family late do so at age forty. If we combinethese, it still means that men are starting families on average ten years laterthan the age decreed by the law of the sage-kings. If all of them have onechild every three years, then two or three children should have been bornduring that ten-year period. And so is it not only by getting people to startfamilies early in life that one can double the population?
+“This is the only way to double the population, but those who rule the
+world today actually work in many ways to lessen the population. Theyoverwork and overtax their people to the point where many lack sufficient
+resources, with the result that those who die of hunger and cold are more
+than one can count. Moreover, the great officers encourage rulers to raisearmies and attack neighboring states. The longer campaigns take up to ayear while the shorter ones last several months. This means that men and
+women don’t see each other for long periods of time, and in this way thepopulation is reduced. During these campaigns, some become ill and diebecause they lack a stable living arrangement with regular food and water;others die in ambushes, fiery assaults, sieges, and battles. Together, theirnumbers are beyond reckoning. This is because the rulers of today are find-ing more and more ways to lessen the population. Such things never oc-curred when the sages ruled. Such is not the way sages rule. They find moreand more ways to increase the population.”
+This is why our teacher Mozi says, “To eliminate everything that is not
+useful is to carry out the Way of the sage-kings and offer great benefit tothe world.”
+Chapter Twenty-Five: For Moderation in Funerals 
+Our teacher Mozi says, “The way benevolent people plan on behalf of the
+world is just like the way filial children plan on behalf of their parents.”
+Now how is it that filial children plan for their parents?
+Our teacher Mozi says, “If their parents are poor, they do what they can
+to enrich them. If the members of their clan are few, they do what they canto increase their numbers. If the family is in chaos, they do what they canto make it well ordered. In pursuing these ends they may find that theirstrength is insufficient, their resources inadequate, or their knowledge toomozi ■75Page 97
+----------------------------------------------------------------------------------------------------limited, and that they fall short. But they would never hold back any of
+their strength or any scheme or advantage and not apply these in their ef-forts to realize their parents’ well-being.”
+These are the three benefits that filial children plan for on behalf of their
+parents. And this is the way they work to realize these ends. This is also theway that benevolent people plan on behalf of the world.
+Our teacher Mozi says, “If the world is poor, benevolent people do what
+they can to enrich it. If the people are few, benevolent people do what theycan to increase their numbers. If the world is in chaos, benevolent peopledo what they can to make it well ordered. In pursuing these ends benevo-lent people may find that their strength is insufficient, their resources in-adequate, or their knowledge too limited, and that they fall short. But theywould never hold back any of their strength or any scheme or advantageand not apply these in their efforts to realize the world’s well-being.”
+These are the three benefits that benevolent people plan for on behalf of
+the world. And this is the way they work to realize these ends. But now thesage-kings of the three dynasties of old
+27have passed away and the world
+has lost sight of what is right. The gentlemen of later ages are divided intheir opinions. Some maintain that lavish funerals and prolonged mourn-ing 
+28are benevolent and right and the proper task of filial children. Oth-
+ers maintain that lavish funerals and prolonged mourning are neitherbenevolent nor right and are not the proper task of filial children.
+Our teacher Mozi says, “These two groups contradict each other in
+word and oppose each other in deed. Both say, ‘I am dutifully following theWay of Yao, Shun, Yu, Tang, Wen, and Wu,’ and yet they contradict each
+other in word and oppose each other in deed. And so people of later ageshave become suspicious of the claims of both groups. If one doubts theclaims of both groups then one should turn and consider them in regard toruling the state and governing the people, to see whether or not lavish fu-
+nerals and prolonged mourning promote the three benefits discussed ear-lier. If by following their words and implementing their plans concerninglavish funerals and prolonged mourning one really would enrich the poor,increase the population, bring stability to precarious situations and order tochaos, then these things clearly are benevolent and right and the proper76 ■mozi
+27The Xia, Shang, and Zhou dynasties.
+28Almost certainly, Mozi here has in mind the Confucians who maintained elaborate
+and prolonged rituals of mourning. See for example, Analects 17.21, Mengzi 3A5 and 7A39,
+and Xunzi’s “Discourse on Ritual.” See Xunzi, chapter 19, pp. 265–71.Page 98
+----------------------------------------------------------------------------------------------------task of filial children. Those who offer counsel could not but encourage
+them. Benevolent people would work to make such practices flourishthroughout the world; they would seek to establish them and bring thepeople to praise them and to follow them, to the end of their days. How-ever, if by following their words and implementing their plans concerninglavish funerals and prolonged mourning one really cannot enrich the poor,increase the population, bring stability to precarious situations and order tochaos, then these things clearly are not benevolent and right or the propertask of filial children. Those who offer counsel could not but discouragethem. Benevolent people would work to eradicate such practices through-out the world; they would seek to abolish them and bring the people tocondemn them and to never follow them, to the end of their days. And sofrom ancient times until the present, it has never been the case that bring-ing the world to a flourishing state and eliminating what is harmful to theworld has led the state and the people to disorder.”
+Now there are many gentlemen in the world who are still in doubt as to
+whether or not lavish funerals and prolonged mourning are right or wrong,beneficial or harmful. And so our teacher Mozi says, “Let us examine thecase. Now if we were to implement the teachings of those who follow anduphold lavish funerals and prolonged mourning, then in mourning for aking, duke, or high official, they prescribe that there be several inner andouter coffins, a deep grave, many layers of burial clothes, elaborately and in-tricately embroidered funeral shrouds, and a massive burial mound. Amongcommon men and women this would exhaust the resources of the entire fam-ily. And even a feudal lord would have to empty his entire state treasury be-fore the appropriate amount of gold, jade, and pearls would adorn the bodyand the proper quantities of silk, carriages, and horses would fill up the tomb.In addition, since one is to see off the dead as if they were simply changing
+their abode, it is required that numerous draperies and canopies, offering ves-sels of various kinds, tables and chairs, pots and basins, spears and swords,feathered banners, and articles made of tooth and hide must be buried alongwith them. It is also said that when an emperor or feudal lord dies as manyas several hundred and no fewer than several tens of retainers are to be sacri-ficed in order to accompany the deceased.
+29When a general or great official
+dies as many as several tens and no fewer than several are to be sacrificed.”mozi ■77
+29This refers to ritual sacrifice, most popular during the Shang but still practiced in
+Mozi’s own time. Mengzi quotes Kongzi as definitively rejecting even the vestiges of such
+practices. See Mengzi 1A4 (not in this volume).Page 99
+----------------------------------------------------------------------------------------------------What are the rules for one who is in mourning?
+Our teacher Mozi says, “Mourners are to cry and wail irregularly, at all
+times of the day and night, and to sound as if their sobs are choked off.They are to dress in sackcloth, allow their tears to run down without wip-ing them away, and live in a mourning hut made of straw, sleeping upon arush mat and using a lump of dirt as their pillow. Moreover, they are to en-
+courage each other to refuse food and starve themselves and to wear thinclothing in order to suffer from the cold, so that they come to have sunkenfaces and eyes, a sallow and darkened complexion, poor hearing and sight,and limbs too weak to function. It is also said that the most noble of peo-ple uphold the rites of mourning to the point where they cannot rise upwithout assistance and cannot walk without a cane and they follow thesepractices for three years. This is what would happen if the state took suchteachings as its model and followed them as its Way. Should kings, dukes,and other great men follow such practices, they will not be able to comeearly to court and retire late in order to hear litigation and carry out the af-fairs of the government. Should officers and officials follow such practices,they would be unable to administer the Five Offices and Six T reasuries
+30in
+order to ensure that crops and timber are harvested and the granaries keptfull. Should farmers follow such practices, they would be unable to go outto the fields early and return home late in order to carry out the plough-ing, planting, and tending of crops. Should the various craftsmen followsuch practices, they would be unable to work on boats and carts and fash-ion various vessels and utensils. Should women follow such practices, theywould be unable to rise at dawn and retire at night in order to completetheir work of spinning and weaving. And so lavish funerals entail buryinga great deal of wealth, and prolonged mourning entails prohibiting peoplefrom pursuing their vocations for an extended period of time. The formertakes wealth that has already been created and buries it, while the latterprohibits new members of society from being born for an extended periodof time. To pursue wealth in this manner is like seeking a harvest while pro-hibiting ploughing! Such practices have nothing to offer in regard to ex-plaining how to become wealthy. And so we now know that lavish funeralsand prolonged mourning cannot enrich one’s state.”78 ■mozi
+30A list of these offices and their duties can be found in a later work called the Liji
+(“Book of Rites”). See the entry on the Rites under Important T exts . For a translation, see
+James Legge, tr. The Li Chi: Book of Rites , reprint, vol. 1 (New York: University Books,
+1967), pp. 109–10.Page 100
+----------------------------------------------------------------------------------------------------But perhaps it has value for those who wish to increase population of
+their states?
+Our teacher Mozi says, “It has nothing to offer in this regard either.
+Now consider what would result if lavish funerals and prolonged mourn-
+ing were adopted as official policy. When one’s ruler died, one would
+mourn him for three years. When one’s mother or father died, one wouldmourn them for three years. When one’s wife or eldest son died, one wouldmourn them for three years. Whenever any of these five people died, onewould mourn them for three years. Next, one would mourn for one’s pa-ternal uncles, brothers, and other sons, and one’s various close relatives forfive months. You are to mourn for several months for fraternal aunts, sis-ters, first cousins, and maternal uncles. And there are set standards de-scribing the proper levels of emaciation mourners must attain. They are tohave sunken faces and eyes, a sallow and darkened complexion, poor hear-ing and sight, and limbs too weak to function. It is also said that the mostnoble of people uphold the rites of mourning to the point where they can-not rise up without assistance and cannot walk without a cane, and followthese practices for three years.
+“This is what would happen if the state took such teachings as its model
+and followed them as its Way. If the people starve themselves in this man-ner then they will be unable to withstand the cold of winter or the heat ofsummer and countless numbers of them will grow ill and die. This greatlydiminishes the chances for men and women to procreate. To seek to in-crease the population in this way is like seeking to increase people’slongevity by getting them to fall upon their swords. Such practices havenothing to offer with regard to explaining how to increase the population.And so we now know that lavish funerals and prolonged mourning cannotincrease the number of people in one’s state.”
+But perhaps it has value for those who wish to bring good order to the
+government?
+Our teacher Mozi says, “It has nothing to offer in this regard either.
+Now consider what would result if lavish funerals and prolonged mourn-
+ing were adopted as official policy. The state would be poor, the people few,and the government in chaos. This is what would happen if the state tooksuch teachings as its model and followed them as its Way. If those abovewere to carry out these practices, they would be unable to attend to their
+affairs. If those below were to carry out these practices, they would be un-able to pursue their various tasks. If those above are unable to attend totheir affairs, then the government will be in chaos. If those below are un-mozi ■79Page 101
+----------------------------------------------------------------------------------------------------able to pursue their various tasks, then food and clothing will be in short
+supply. If these are in short supply, then a younger brother who seeks forsuch things from his elder brother will be refused and will come to feel un-brotherly. In time he will come to resent his elder brother. Children whoseek for such things from their parents will be refused and will come to feelunfilial. In time they will come to resent their parents. Ministers who seekfor such things from their rulers will be refused and will come to feel dis-loyal. In time they will rebel against their superiors. This will lead unrulyand depraved people who lack proper clothing and sufficient food to buildup resentment and indignation in their hearts and express it in wanton vi-olence that cannot be stopped. And so robbers and thieves will increasewhile decent and good people grow increasingly scarce. To seek to bringgood order to one’s state by increasing the number of thieves and robbersand decreasing the number of decent and good people is like asking some-one who is standing in front of one to turn around three times without ex-posing his back to you. Such practices have nothing to offer in regard toexplaining how to bring good order to the government. And so we nowknow that lavish funerals and prolonged mourning cannot bring goodorder to one’s state.”
+But perhaps it has value for those who wish to prevent large states from
+attacking small states?
+Our teacher Mozi says, “It has nothing to offer in this regard either. Ever
+since the ancient sage-kings passed away and the world lost a sense of whatis right, the feudal lords have relied upon force of arms to attack one an-other. To the south there are the kings of Chu and Yue and to the norththere are the rulers of Qi and Jin.
+31They all mercilessly drill and train their
+troops with the aim of attacking and absorbing one another and therebygaining control of all the world. And so whenever a large state fails to at-tack a small one it is only because the small state has an abundant stock ofprovisions, well maintained fortifications, and harmony between its rulersand subjects. This is why great states do not want to attack it. If its provi-sions were not abundant, its fortifications not well maintained, or it lackedharmony between its rulers and subjects, then large states would want toattack it. Now consider what would result if lavish funerals and prolongedmourning were adopted as official policy. The state would be poor, the peo-ple few, and the government in chaos. If the state is poor, it lacks the meansto accumulate abundant provisions. If its people are few, it lacks the labor80 ■mozi
+31The rulers of these particular states were jousting for preeminence in Mozi’s time.Page 102
+----------------------------------------------------------------------------------------------------needed to maintain its walls and moats. If it is in chaos, then it will not be
+victorious in attack nor secure in defense. And so we now know that lavishfunerals and prolonged mourning cannot prevent large states from attack-ing small ones.”
+But perhaps it has value for those who wish to win the blessings of the
+Lord on High, ghosts, and spirits?
+Our teacher Mozi says, “It has nothing to offer in this regard either.
+Now consider what would result if lavish funerals and prolonged mourn-
+ing were adopted as official policy. The state would be poor, the people fewand the government in chaos. If the state is poor its sacrificial offerings ofmillet and wine will not be clean and pure. If its people are few, there willnot be enough of them to serve the Lord on High, ghosts, and spirits. Andif its government is in chaos, then its sacrifices will not be offered regularlyand at the proper times. Now suppose this reaches the point where servingthe Lord on High, ghosts, and spirits is eventually prohibited and stopped.If such a policy is implemented, the Lord on High, ghosts, and spirits
+would discuss this among themselves up above saying, ‘Which is better? Tohave or to not have such people? I suppose there is no difference to uswhether they exist or not!’ Then were the Lord on High, ghosts, and spir-its to send down calamities and punishments and abandon such a people,would this not merely be fitting?
+32
+“This is why the sages of old prescribed the following methods for bur-
+ial. They said that a coffin of plain wood three inches thick is enough tohouse the body as it decays. There should be three layers of funeral clothes,enough to cover up the unpleasantness. As for the depth of the grave, itshould not be so deep as to hit water but not so shallow as to allow a stench.The burial mound should rise no higher than three feet. If one followedthese methods, the deceased was properly buried. The living must not en-gage in prolonged mourning but should quickly go about their tasks, eachperson doing what they are best at in order to mutually benefit one an-other. These are the methods laid down by the sage-kings.”
+Now those who advocate lavish funerals and prolonged mourning say,
+“Although lavish funerals and prolonged mourning cannot enrich the poor,mozi ■81
+32As seen clearly in the following two chapters, Mozi was a religious conservative and a
+fundamentalist. He insisted that a belief in and the worship of the Lord on High, ghosts,
+and spirits was necessary for a stable and flourishing society. He was very much opposed tothe more naturalized, psychological interpretations of religious ceremony that were evolvingamong Confucian thinkers of the time.Page 103
+----------------------------------------------------------------------------------------------------increase a sparse population, stabilize a precarious situation, or bring good
+order to chaos, nevertheless, such is the Way of the sage-kings.”
+Our teacher Mozi says, “This is not the case. In ancient times, when Yao
+went north to instruct the eight Di barbarian tribes33he died en route and
+was buried on the northern slopes of Mount Qiong.34His corpse was
+dressed in only three layers of burial clothing and interred in a coffin ofplain wood that was bound together with common vines. Mourning beganonly after the coffin had been lowered into the grave. The grave was thenfilled in and no burial mound was erected. Once the burial was complete,oxen and horses freely crossed over the grave.
+35When Shun went west to
+instruct the seven Rong barbarian tribes36he died en route and was buried
+in the marketplace of Nanji.37His corpse was dressed in only three layers
+of burial clothing and interred in a coffin of plain wood that was bound to-gether with common vines. Once the burial was complete, the people inthe market freely crossed over the grave. When Yu went east to instruct thenine Yi barbarian tribes
+38he died en route and was buried on Mount Huiji.
+39His corpse was dressed in only three layers of burial clothing and interred
+in a coffin of plain wood only three inches thick. The coffin was boundwith common vines; it was not fitted tightly together nor was a rampneeded to lower it into the ground.
+40The grave was dug to a depth that did
+not hit water but not so shallow as to allow a stench to escape. Once he wasburied, the excess dirt was piled up as a burial mound. It came to no morethan three feet in height.”
+So if we consider the case on the basis of these three sage-kings, lavish
+funerals and prolonged mourning are not in fact the way of the sage-kings.These three kings each were honored as the Son of Heaven and possessed82 ■mozi
+33The name given to various non-Chinese people to the north of Chinese territory.
+34The location of this mountain is not clear, though it obviously was located somewhere
+to the north of what was Chinese territory at the time.
+35Showing that it was not accorded any special status.
+36The name given to various non-Chinese people to the west of Chinese territory.
+37Scholars do not agree about the location of this town. It obviously was located some-
+where to the west of what was Chinese territory at the time.
+38The name given to various non-Chinese people to the east of Chinese territory. Thus
+Mozi’s narrative purports to report on funeral practices throughout all of China and its three
+land borders.
+39A mountain located in Shanyin county of present-day Zhejiang province.
+40This indicates that the grave was of very modest proportions for a king.Page 104
+----------------------------------------------------------------------------------------------------all the wealth in the world. Is it plausible to suppose that they chose to be
+buried in the way in which they were buried because they were worriedabout having enough to spend?
+But the way in which kings, dukes, and high officials are buried today is
+very different from this. There must be outer and inner coffins and a three-
+layered shroud of embroidered hide. Once the jade disks and stones areprepared, there must also be spears, swords, sacrificial vessels, pots andbasins, embroidery, bolts of silk, and thousands of sets of bridles. The de-ceased must be provided with horses and carriages along with women en-tertainers and their instruments. There must be ramps leading down to andconnecting with the tomb and the burial mound should resemble a hill orsmall mountain. The extent to which such practices interfere with the workof the people and dissipate their wealth is beyond calculation. But this isthe degree to which people are willing to pursue useless endeavors.
+This is why our teacher Mozi says, “Earlier, I began by saying that if by
+following the words and implementing the plans of those who advocatelavish funerals and prolonged mourning one really would enrich the poor,increase the population, bring stability to precarious situations and order tochaos, then these things clearly are benevolent and right and the propertask of filial children. Those who offer counsel could not but encouragethem. However, if by following the words and implementing the plans ofthose who advocate lavish funerals and prolonged mourning one really can-not enrich the poor, increase the population, bring stability to precarioussituations and order to chaos, then these things clearly are not benevolentand right or the proper task of filial children. Those who offer counselcould not but discourage them.
+“But we have seen that those who seek to enrich their states through
+these practices will actually impoverish it. Those who seek to increase thepopulation of their states through these practices will actually decrease it.Those who seek to bring good order to their states through these practiceswill simply throw it into chaos. Those who seek to stop large states fromattacking small states through these practices will not succeed. And thosewho seek to gain the blessing of the Lord on High, ghosts, and spiritsthrough these practices will receive only disaster. If we look up to the wayof Yao, Shun, Yu, Tang, Wen, and Wu we find they were opposed to suchpractices. If we look down to the policies of Jie, Zhou, You, and Li we findthey accorded with such practices. If we consider things on this basis, thenclearly lavish funerals and prolonged mourning are not the way of thesage-kings.”mozi ■83Page 105
+----------------------------------------------------------------------------------------------------Now those who support lavish funerals and prolonged periods of
+mourning say, “If lavish funerals and prolonged mourning really are not the
+way of the sage-kings why is it that the gentlemen of the Middle King-dom
+41continue these practices without interruption and follow them un-
+critically?”
+Our teacher Mozi says, “This is just a case of people ‘following what
+they are used to and approving of what is customary.’42In ancient times,
+east of the state of Yue was the state of Kaishu.43When a first son was born
+to the people of this state they would carve him up and eat him saying itwas beneficial to his future younger brothers. When their father died, theywould carry their mothers off to some distant place and abandon themthere saying, ‘One cannot live with the wife of a ghost!’ These practiceswere both official policy and the popular custom. They were continued
+without interruption and followed uncritically. But how can this be theway to realize what is benevolent and right? This is just a case of people ‘fol-lowing what they are used to and approving of what is customary.’ Southof the state of Chu was the state of the people of Yan.
+44When their parents
+died, they would remove and discard the flesh from their bones and thenbury the bones.
+45This was the way to be a filial child. West of the state of
+Qin46was the state of Yiqu.47When their parents died they would gather
+together kindling and firewood and burn the corpse. As the smoke wouldrise they would say that their parents were ‘ascending far off.’ This was the84 ■mozi
+41That is, China.
+42This appears to have been a common saying of the times.
+43The precise location of this state is uncertain but its location, “east of Yue,” connotes
+a faraway and culturally primitive area.
+44The precise location of this state is uncertain but its location, “south of Chu,” connotes
+a faraway and culturally primitive area.
+45Such secondary reburial of bones, while never the dominant practice, is well attested
+in very early China. There is evidence for the practice in the Central Plains and Northwest
+as far back as the fifth millennium B.C.E.See David N. Keightley, “Early Civilization in
+China: Reflections on How It Became Chinese” in Paul S. Ropp, ed., Heritage of China
+(Berkeley, CA: University of California Press, 1990), p. 24.
+46Qin was the state farthest to the West and was considered culturally backward in
+Mozi’s time.
+47In the basic annals section for the state of Qin in Sima Qian’s Shiji(“Records of the
+Historian”), there is reference to a state by this name. Its exact location is still a matter of
+debate.Page 106
+----------------------------------------------------------------------------------------------------way to be a filial child. These practices were both official policy and the
+popular custom. They were continued without interruption and followeduncritically. But how can this be the way to realize what is benevolent andright? This is just a case of people ‘following what they are used to and ap-proving of what is customary.’
+“If we consider the funeral practices of these three states, then clearly
+they are deficient. If we consider the funeral practices of gentlemen in theMiddle Kingdom, then clearly they are excessive. If one were to greatly in-
+crease the deficiency of the one and greatly diminish the excess of the lat-ter, then there would be moderation in funerals. Even though it is good togive people clothing and food when they are alive, these things still mustbe given in moderation. When people die, it is good to give them funerals.But how could it be that in this alone we show no moderation?”
+Our teacher Mozi says that this is the proper model for a funeral: “A cof-
+fin three inches thick is adequate for the decaying bones. Three layers ofclothes are adequate for the decaying flesh. The grave should be dug to adepth that does not strike water but that also does not allow fumes to escapeto the surface. The burial mound should only be high enough to clearly markthe spot. There should be crying as one sees the departed off and as onecomes back from the grave. But as soon as people have returned to theirhomes, they should resume their individual livelihoods. There should be reg-ular sacrificial offerings made to extend filiality to one’s parents.”
+And so I say that in this way our teacher Mozi’s model neglects the good
+neither of the living nor of the dead. This is why our teacher Mozi says, “Ifgentlemen today sincerely wish to be benevolent and right and desire to be-come superior men, if they want to follow the way of the sage-kings of old,and work for the benefit of the people of the Middle Kingdom today, thenthey should make moderation in mourning their official policy and mustnot fail to examine this matter carefully.”
+Chapter Twenty-Six: Heaven’s Will48
+Our teacher Mozi says, “Gentlemen in the world today understand small
+matters but not those that are great. How do I know this? I know this fromhow they conduct themselves within their families. If one is living atmozi ■85
+48The word translated here as “will” is zhi,d, which means the settled and persisting in-
+tention of an agent. For Mozi, Heaven was less a personality with a capricious or unknow-
+able will and more an established, observable, and predictable set of inclinations.Page 107
+----------------------------------------------------------------------------------------------------home49and commits some offense against the head of the clan, there are
+always the homes of neighbors to which one might flee. And yet, one’s par-
+ents, brothers, and friends will unite and caution one, saying, ‘You must becareful! You must be circumspect! How can you live at home and offendagainst the head of the clan?’ This is not only how things are in the case ofliving at home, it is also so in the case of living in a given state. If one is liv-ing in a state and commits some offense against the ruler of the state, thereare always neighboring states to which one might flee. And yet, one’s par-ents, brothers, and friends will unite and caution one, saying, ‘You must becareful! You must be circumspect! Who can live in a state and offendagainst its ruler?’
+“Since people offer each other such strong admonitions in these cases,
+where there is still some place to which one might flee, should they notthink it appropriate to offer even stronger warnings in a case where there isno place to which one might flee? For there is the saying, ‘Committing of-fense in broad daylight, where can one flee to?’
+50The answer of course is
+that there is nowhere to flee. For Heaven will clearly see you even if yourun to the forests, valleys, or hidden places where none lives. But for some
+reason the gentlemen of the world don’t know enough to warn each other
+about offending Heaven. This is how I know that the gentlemen of theworld understand small matters but not those that are great.
+“This being the case, what is it that Heaven desires and what does it dis-
+like? Heaven desires what is right and dislikes what is not right. This beingso, if I lead the people of the world to act in accordance with what is right,then I will be doing what Heaven desires. And if I do what Heaven desires,then Heaven will do what I desire. Such being the case, what is it that I de-sire and what do I dislike? I desire good fortune and a substantial salary,and dislike calamities and disasters. If I do not do what Heaven desires butrather what it does not desire, then I will lead people to act in ways thatlead them into disaster and calamity. But how do I know that Heaven de-sires what is right and dislikes what is not right? I say this is so because,throughout the world, wherever there is right there is life, and whereverthere is an absence of right there is death. Wherever there is right there iswealth, wherever there is an absence of right there is poverty. Wherever
+there is right there is good order, wherever there is an absence of right there86 ■mozi
+49Mozi has in mind here the practice of living in a family compound, where several gen-
+erations share a common courtyard but each have their separate quarters.
+50This seems to have been a common saying of the time but its source is unknown.Page 108
+----------------------------------------------------------------------------------------------------is disorder. Heaven desires to have life and dislikes death, desires to have
+wealth and dislikes poverty, desires to have good order and dislikes disor-
+der. This is how I know that Heaven desires what is right and dislikes whatis not right.
+“Moreover, what is right is what offers a standard of governing. Such a
+standard is not given by subordinates to govern their superiors but rathermust come from superiors to govern subordinates. This is why the peopledevote themselves to carrying out their various tasks but do not make uptheir own standard. There are ministers and officials to govern them. Min-isters and officials devote themselves to carrying out their various tasks butdo not make up their own standard. There are the three high counselorsand feudal lords to govern them. The three high counselors and feudallords devote themselves to administering the government but they do notmake up their own standard. There is the Son of Heaven to govern them.The Son of Heaven does not make up his own standard. There is Heavento govern him. The gentlemen of the world clearly understand that the Sonof Heaven governs the three high counselors and feudal lords, the ministersand officials and the people. But that Heaven governs the Son of Heavenis something that people do not yet clearly understand.
+“This is why in ancient times the sage-kings of the three dynasties,
+51Yu,
+Tang, Wen, and Wu, wanted to make clear to the people of the world that
+Heaven governs the Son of Heaven. And so each of them fattened up oxen
+and sheep, dogs and swine, and prepared pure offerings of millet and wineas sacrifices to the Lord on High, the ghosts, and spirits and prayed forHeaven’s blessings. I have never heard of a case where Heaven prayed for
+blessings from the Son of Heaven and this is how I know that Heaven gov-erns the Son of Heaven.”
+The Son of Heaven is the most honored person in the world and the
+richest person in the world. And so those who desire riches and honors can-not but accord with the will of Heaven. Those who accord with Heaven’swill, caring for one another impartially, and benefiting one another in theirinteractions, will surely be rewarded. Those who oppose Heaven’s will, dis-liking one another out of partiality and stealing from one another in theirinteractions, will surely be punished. This being so, who has accorded withHeaven’s will and been rewarded? Who has opposed Heaven’s will and been
+punished?mozi ■87
+51The Xia, Shang, and Zhou dynasties.Page 109
+----------------------------------------------------------------------------------------------------Our teacher Mozi says, “In ancient times the sage-kings of the three dy-
+nasties, Yu, Tang, Wen, and Wu, were among those who accorded with
+Heaven’s will and were rewarded. In ancient times the vicious kings of the
+three dynasties, Jie, Zhou, You, and Li, were among those who opposedHeaven’s will and were punished.”
+That being so, how were Yu, Tang, Wen, and Wu rewarded?Our teacher Mozi says, “On high they honored Heaven, in the middle
+realm they served the ghosts and spirits, and below they cared for human
+beings. And so Heaven’s will proclaimed, ‘These men impartially care forthose I care for and impartially benefit those I benefit. Their care for thepeople is extensive and the benefit they bring is substantial.’ And so Heavenmade it come to pass that they each became the Son of Heaven and weregiven the wealth of all the world. Their descendents have continued for amyriad of generations, their goodness has been proclaimed throughout suc-ceeding generations and spread throughout the world. They are praiseddown to the present day and are known as ‘sage-kings.’”
+That being so, how were Jie, Zhou, You, and Li punished?Our teacher Mozi says, “On high they maligned Heaven, in the middle
+realm they insulted the ghosts and spirits, and below they harmed human
+beings. And so Heaven’s will proclaimed, ‘These men through their par-tiality dislike those I care for and in their interactions harm those I bene-fit. Their dislike for the people is extensive and the harm they bringsubstantial.’ And so Heaven made it come to pass that they did not finishout their natural span of life and their line did not even span a single fullgeneration. They are reviled down to the present day and are known as ‘vi-cious kings.’”
+That being so, how do we know that Heaven cares for the people of the
+world?
+Our teacher Mozi says, “Because it sheds light upon all impartially.”
+How do we know that Heaven sheds light upon all equally?
+Our teacher Mozi says, “Because it lays claim to all impartially.”
+How do we know that it lays claim to all impartially?
+Our teacher Mozi says, “Because it accepts sacrificial offerings from all
+impartially.”
+How do we know that it accepts sacrificial offerings from all impartially?
+Our teacher Mozi says, “Within the four seas, all those who live on cul-
+tivated grain
+52 fatten up oxen and sheep, dogs, and swine, and prepare pure88 ■mozi
+52The settled, civilized Chinese as opposed to nomadic, uncivilized “barbarians.”Page 110
+----------------------------------------------------------------------------------------------------offerings of millet and wine as sacrifices to the Lord on High, the ghosts,
+and spirits. Since Heaven lays claim to all people, why would it not care forthem? Moreover as I teach, ‘Those who kill one innocent person will suf-fer one misfortune.’
+53 Who is it that kills an innocent person? It is a human
+being. Who is it that bestows misfortune? It is Heaven. If Heaven did notcare for the people of the world, then why would it send down misfortuneswhen human beings kill one another? This is how I know that Heaven caresfor the people of the world.”
+To accord with Heaven’s will is to take right as the governing standard.
+To oppose Heaven’s will is to take force as the governing standard. But what
+does one do who takes right as the governing standard?
+Out teacher Mozi says, “Those who control great states will not attack
+small states. Those who control great families will not plunder lesser fami-lies. The strong will not rob the weak. The noble will not act arrogantly to-ward the humble. The clever will not deceive the foolish. Such things arebeneficial to Heaven above, to ghosts and spirits in the middle realm, andto human beings below. Benefiting these three, there is none that is notbenefitted, and so the best of names will be accorded to such men and theywill be called ‘sage-kings.’ Those who take force as the governing standarddiffer from this. They contradict this in word and oppose it in deed, liketwo men galloping away from one another on horseback. Those who con-trol great states will thus attack small ones. Those who control great fami-lies will plunder lesser families. The strong will rob the weak. The noblewill act arrogantly toward the humble. The clever will deceive the foolish.Such things are not beneficial to heaven above, to ghosts and spirits in the
+middle realm, or to human beings below. Not benefiting these three, thereis none that is benefited, and so the worst of names will be accorded to suchmen and they will be called ‘vicious kings.’”
+Our teacher Mozi says, “I hold to the will of Heaven as a wheelwright
+holds to his compass and a carpenter his square. Wheelwrights and car-penters hold fast to their compasses and squares in order to gauge what isround and square throughout the world saying, ‘What is plumb with this
+is true, what is not is false!’ The books of all the gentlemen in the worldtoday are so numerous that they cannot be exhaustively catalogued andtheir teachings and maxims are more than can be counted. Above they offertheir opinions to the feudal lords and below they expound them to variousmozi ■89
+53In addition to occurring in all three versions of “Heaven’s Will,” this line is also found
+in chapter 4 (not in this volume).Page 111
+----------------------------------------------------------------------------------------------------men of worth. But they are far from what is benevolent and right! How do
+I know this? I say, ‘I measure them with the clearest standard in all theworld.’”
+Chapter Thirty-One: On Ghosts 
+Our teacher Mozi says, “In the present age, since the sage-kings who ruled
+during the ancient three dynasties have passed away and the world has lostsight of what is right, the feudal lords all take force as their guiding stan-dard.
+54As a result, rulers and other superiors are not kind while ministers
+and other subordinates are not loyal. Fathers are not loving and sons are notfilial, elder brothers are not good to their younger brothers, younger broth-ers are not respectful of their elders, and proper conduct in general is notobserved. Those in charge of the government do not exert themselves intheir administrative duties, while the common people do not exert them-selves in the pursuit of their various tasks. This is also why people abandonthemselves to licentiousness, violence, piracy, rebellion, thievery, and rob-bery, and use weapons, poisons, water, and fire to stop travelers on theroads and byways, and rob their carriages, horses, coats, and furs in order
+to profit themselves. As a result the world is in great disorder.
+“If we ask how this came about we will see that it is all because people
+have developed doubts concerning the existence of ghosts and spirits anddo not understand that ghosts and spirits can reward the worthy and pun-ish the wicked. Now if we could just persuade the people of the world tobelieve that ghosts and spirits can reward the worthy and punish thewicked, then how could the world ever become disordered?”
+Now those who maintain that there are no ghosts or spirits say, “Ghosts
+and spirits certainly do not exist!” Day and night they preach such ideasthroughout the world and sow suspicion among the masses. They cause thepeople of the world to develop doubts concerning the existence of ghostsand spirits and as a result the world is thrown into disorder.
+This is why our teacher Mozi says, “If the kings, dukes, great officials,
+and gentlemen of the world today really seek to promote what is beneficialto the world and eliminate what is harmful they must inquire carefully intothe issue of whether or not ghosts and spirits exist.”90 ■mozi
+54The word translated as “guiding standard” is zhengS, which often means “what is cor-
+rect” and is related to the word zheng:, which means “to rule.” Mozi here is playing on
+these related senses.Page 112
+----------------------------------------------------------------------------------------------------I accept that one must inquire carefully into the issue of whether or not
+ghosts and spirits exist. Granted this, what is the proper method for pur-
+suing an inquiry into this issue?55
+Our teacher Mozi says, “You proceed in the same way as in any other
+case of determining whether anything exists or does not exist; you musttake as your standard the evidence provided by the eyes and ears of the peo-ple. If there really are people who have heard and seen something, then youmust accept that such things exist. If no one has heard or seen anything,then you must accept that such things do not exist. If you intend to pro-ceed in this way, why not try going into a district or village and ask the peo-ple there? If, in the course of human history, from ancient times up to thepresent, there really are people who have seen ghostly or spiritual entitiesor heard the sounds of ghosts or spirits, then how could one say that ghostsand spirits do not exist? If no one has ever heard or seen them, then howcould one say that ghosts and spirits exist?”
+Now those who maintain that ghosts and spirits do not exist say,
+“Throughout the world there are innumerable reports about hearing and
+seeing ghostly or spiritual entities, but who really can offer testimony abouthaving heard or seen ghostly or spiritual entities?”
+56
+Our teacher Mozi says, “If we are looking for someone who has seen what
+so many have seen and heard what so many have heard, then in ancient timesDu Bo is a good example. King Xuan of Zhou
+57killed his minister Du Bo
+even though he was completely innocent. Before he died Du Bo said, ‘Mylord is killing me even though I am completely innocent. If the dead are in-deed unconscious, then that will be the end of it. But if the dead are con-scious, within three years’ time my lord shall know of this!’ Three years laterKing Xuan and various feudal lords were off hunting in the wilds. There wereseveral hundred chariots and several thousand men on foot; the huntingparty filled the entire field. At high noon, Du Bo appeared in a plain chariotpulled by white horses. He was wearing vermillion clothes and a hat, hold-ing a vermillion bow, and clasping vermillion arrows under his arm. He pur-mozi ■91
+55Notice that in what follows, Mozi appeals to the “three gauges” discussed in “ A Con-
+demnation of Fatalism.” See Mozi, chapter 35, p. 105–07.
+56Mozi wants to distinguish mere hearsay and vague claims about spiritual beings from
+firm and clear testimony of their existence. In the examples he cites as evidence, the testi-
+mony is first hand, detailed, and corroborated by mutiple witnesses.
+57A king who ruled during the tenth generation of the Zhou dynasty. His reign dates are
+827–782 B.C.E.Page 113
+----------------------------------------------------------------------------------------------------sued King Xuan of Zhou and shot him as he rode in his chariot; the arrow
+pierced the king’s heart and splintered his spine. King Xuan collapsed in hischariot and, draped over his own bow case, he died. None of the men fromZhou who were there at the time failed to witness this and none even in re-mote places failed to hear about it. The event was recorded in the courtchronicle of Zhou. Rulers referred to it when instructing their ministers, andfathers referred to it as a warning to their sons, saying, ‘Be cautious! Bewatchful! Misfortune will surely befall all those who kill the innocent, andthey will suffer the punishments of ghosts and spirits in this swift fashion!’And so, if we look at things in terms of what is written in the court chroni-cle of Zhou, then how can we doubt that ghosts and spirits exist?
+“But it is not just the court chronicle of Zhou that attests to such things,
+in ancient times, Duke Mu of Qin 
+58was once in his ancestral temple at
+high noon when a spirit entered through the door. It had the face of a manand the body of a bird, wore a plain white robe with dark edging, and dis-played a serious and dignified expression. When Duke Mu saw it he wasfrightened and started to run away, but the spirit spoke to him saying, ‘Donot fear! The Lord is pleased with your shining virtue
+59and has dispatched
+me to extend your life by nineteen years.60He shall ensure that your state
+prospers and that your descendants flourish and hold on to the state ofQin.’ Clasping his hands together Duke Mu saluted the spirit several timesand bowing his head asked, ‘May I inquire as to your name?’ The spiritreplied, ‘I am Gou Mang.’ And so if we accept what Duke Mu of Qin saw
+with his own eyes, then how can we doubt that ghosts and spirits exist?92 ■mozi
+58Ruler of the state of Qin from 659–621 B.C.E.
+59In very early Chinese texts, spirits savored the mingdee-, “shining virtue,” of pious
+worshippers in the same visceral way they were thought to enjoy the smells and flavors of
+the sacrifice, and the pageantry and music of the ceremony. T rue virtue would elicit spon-taneous feelings of approval and joy while character or behavior that was ef, “vile,” would
+give rise to disapproval and disgust. Such ideas can be seen in the later tradition. For exam-ple, in chapter 6 of the Daxue, “Great Learning,” a cultivated person is said to be attracted
+to the good “as if seeing something beautiful” and repelled by the bad “as if smelling some-thing malodorous.”
+60A span of nineteen years marked a specific astronomical and calendrical period called
+a zhangg. Unaware of the precession of the equinoxes, ancient Chinese astronomers be-
+lieved that every nineteen years the winter solstice was the first day of the first month of theyear and that on that day the sun would appear at exactly the same place in the zodiac.
+Hence nineteen years were thought to define a significant period of time, something akin
+to a generation. Compare the story of the butcher in Zhuangzi , chapter 3, pp. 219–20,
+whose knife remained keen for a period of nineteen years.Page 114
+----------------------------------------------------------------------------------------------------“But it is not just this record that attests to such things. In ancient times,
+Duke Jian of Yan61killed his minister Zhuang Ziyi who was completely in-
+nocent. Before he died Zhuang Ziyi said, ‘My lord is killing me even
+though I am completely innocent. If the dead are indeed unconscious, thenthat will be the end of it. But if the dead are conscious, within three yearstime my lord shall know of this!’ After one year had passed Duke Jian wasabout to set off in his chariot to perform the great sacrifice at Zu. 
+62At high
+noon, as Duke Jian of Yan was setting off in his chariot on the road to Zu,Zhuang Ziyi appeared bearing a vermillion colored staff and beat the Duketo death with it. There were none among the people of Yan accompanyingthe Duke at the time who failed to witness this and none even in remoteplaces failed to hear about it. The event was recorded in the court chroni-cle of Yan. Feudal lords passed it on to succeeding generations, saying,‘Misfortune will surely befall all those who kill the innocent, and they willsuffer the punishments of ghosts and spirits in this swift fashion!’ And so ifwe look at things in terms of what is written in the court chronicle of Yan
+then how can we doubt that ghosts and spirits exist?
+“But it is not just the court chronicle of Yan that attests to such things. In
+ancient times, in the time of Bao,
+63Lord Wen of Song, there was a minister,
+Guan Gu, who served as Chief of Sacrifice. Once while he was carrying out
+his duties in the temple, a shaman appeared before him holding a staff andsaid, ‘Guan Gu! Why is it that the sacrificial jades are not of the proper size,the offerings of wine and millet not clean and pure, the animals offered notwithout blemish and fully fattened, and the sacrifices of each season not per-formed at the proper time? Is this your doing or is Bao responsible?’ GuanGu replied, ‘Bao is still a babe in swaddling clothes. How could he be re-
+sponsible? I, Guan Gu, the minister in charge, am the one who sees to this.’The shaman then raised his staff and clubbed him to death and Guan Gudied upon the offering platform. There were none among the people of Songmozi ■93
+61Ruler of the state of Yan. His reign dates are 504–493 B.C.E.
+62The name of a specific sacrificial site in the state of Yan. This adds an ironic cast to the
+story, for it was commonly held that a state is maintained through the spiritual power of its
+state sacrifices. The following lines, which are clearly a later note that became incorporatedinto the text, describe the locations of the state sacrifices of other contemporary states andthe fact that many people witnessed these events (and hence the spiritual sighting noted inMozi’s story), “The state of Yan performed its great sacrifice at Zu, while the state of Qi of-
+fered its sacrifice at Sheji, Song at Sanglin, and Chu at Yunmeng. Large numbers of menand women would gather to observe these rituals.”
+63Bao is the personal name of the king whose posthumous name was Lord Wen. He
+ruled the state of Song from 610–589 B.C.E.He was also known as Duke Wen.Page 115
+----------------------------------------------------------------------------------------------------who were there at the time who failed to witness this and none even in re-
+mote places failed to hear about it. The event was recorded in the courtchronicle of Song. Feudal lords passed it on to succeeding generations, say-ing, ‘All those who fail to offer sacrifices with reverence and care will sufferthe punishments of ghosts and spirits in this swift fashion!’ And so if we lookat things in terms of what is written in the court chronicle of Song, then howcan we doubt that ghosts and spirits exist?
+“But it is not just the court chronicle of Song that attests to such things.
+In ancient times, among the ministers of Lord Zhuang of Qi
+64were two
+named Wang Liguo and Zhong Lijiao. For three years, these two had beenengaged in litigation against one another but no definitive judgment couldbe reached in the matter. The Lord of Qi thought of putting them both todeath, but feared killing an innocent man. He thought of acquitting themboth, but feared letting a guilty man go free. And so he arranged for them toprovide a sheep for sacrifice and to use its blood to swear an oath of inno-cence upon Qi’s sacred altar. The two men agreed to swear the oath, and sothe ground was prepared, the sheep’s throat was cut, and its blood was sprin-kled about to consecrate the sacrifice. Wang Liguo’s oath was read throughwithout incident, but before they were even halfway done with Zhong Li-jiao’s oath, the sheep that had been sacrificed rose up and butted him, break-ing his leg. Then the spirit of the altar appeared and struck Zhong Lijiao,killing him on the very place where he had sworn his oath. There were noneamong the people of Qi who were there at the time who failed to witness thisand none even in remote places failed to hear about it. The event wasrecorded in the court chronicle of Qi. Feudal lords passed it on to succeed-
+ing generations, saying, ‘All those who fail to be sincere when they swear anoath will suffer the punishments of ghosts and spirits in this swift fashion!’And so if we look at things in terms of what is written in the court chronicleof Qi, then how can we doubt that ghosts and spirits exist?”
+This is why our teacher Mozi says, “Even in the deepest valleys or vast
+forests, in those hidden places where no one lives, you must always actproperly. For the ghosts and spirits will see what you do!”
+Now those who maintain that there are no ghosts say, “How can what
+the multitude claim to have seen and heard be considered adequate for set-tling doubts about this issue? How can one who aspires to be known as aperson of high status or a gentleman throughout the world turn to andtrust what the multitude claim to have seen and heard?”94 ■mozi
+64Ruler of the state of Qi. His reign dates are 553–548 B.C.E.Page 116
+----------------------------------------------------------------------------------------------------Our teacher Mozi says, “If what the multitude claim to have seen and
+heard is not enough to win your trust and settle your doubts about this
+issue, then I am not sure whether you will consider the sage-kings of thethree dynasties, or even they together with Yao and Shun, as adequate mod-els.
+65In this regard, from the average person to nobles alike, all say that the
+sage-kings of the three dynasties, or they together with Yao and Shun, areadequate models of conduct. And so if we assume that the three sage-kingsof ancient times, or they together with Yao and Shun, are adequate mod-els, then why don’t we consider the actions of the former sage-kings?
+“In ancient times, when King Wu had attacked the Yin and executed
+Zhou, he had the various feudal lords divide up the sacrifices of Yin. Heentrusted the interior sacrifices to those who were closely related and theexterior sacrifices to those who were distantly related.
+66Since he did this,
+King Wu must have believed in the existence of ghosts and spirits. This iswhy, when he had attacked the Yin and executed Zhou, he had the variousfeudal lords divide up the sacrifices of Yin. If there were no ghosts and spir-its, why would King Wen have bothered to divide up the sacrifices of Yin?
+“It is not only the activities of King Wu that bear this out. Whenever the
+sage-kings of old rewarded anyone, they always did so at the ancestralshrine, and whenever they punished anyone, they always did so at the altarof soil. Why did they reward at the ancestral shrine? In order to announceto the spirits there that rewards were fairly apportioned. Why did they pun-ish at the altar of soil? In order to announce to the spirits there that thecases were decided properly.
+“But it is not just what can be found in books that bears this out. In the
+time of Emperor Shun and in the time of the sage-kings of the three dy-nasties Xia, Shang, and Zhou, on the very first day that they establishedtheir states and set up their capitals, they always selected the most perfectlyaligned altar in the capital to serve as their ancestral shrine.
+67Also, they al-mozi ■95
+65The text is slightly garbled at this point. But the sense is something like “the sage-kings
+of the three dynasties (i.e., Yu, Tang, Wen, and Wu) plusYao and Shun.
+66The interior sacrifices were to the Yin royal ancestors and hence needed to be carried
+out by their direct descendants. Mozi’s point is that if there were no ghosts and spirits who
+received these sacrifices and were aware of who was sacrificing to them, there would have
+been no point in dividing up these religious duties.
+67Mozi’s point here is that the conscious effort to properly align cities to harmonize with
+spiritual forces also reflects a belief in the existence of ghosts and spirits. For the seminalstudy of this aspect of Chinese culture, see Paul Wheatley, The Pivot of the Four Corners: A
+Preliminary Enquiry into the Origins and Character of the Ancient Chinese City (Chicago, IL:
+Aldine Publishing Company, 1971).Page 117
+----------------------------------------------------------------------------------------------------ways chose the place where the trees grew most finely and luxuriantly and
+established it as the altar of soil. They also chose the most kind, filial, up-right, and good from among the elders of their states to oversee and per-form their sacrifices. They always chose the most plump, physically perfectand properly colored of the six domesticated animals as their sacrificial of-ferings and ensured that the proper type, quality, and number of jadetablets and insignia were used. They always chose the most fragrant andperfectly ripened of the five grains in order to make their sacrificial wineand cakes, and this is why there was seasonal variation in these offerings. Inthese various ways, the ancient sage-kings ruled the world by putting theghosts and spirits ahead of the people. This is why they declared that be-fore any of the civil officials were appointed, the sacrifical implements androbes must first be stored away in the royal treasury, those in charge of over-
+seeing and performing the sacrifices must all be presented and invested atcourt, and those animals to be used as sacrifices must be separated from therest of their flocks and herds. This is how the sage-kings of ancient times
+carried out their rule. In ancient times, sage-kings always showed their de-votion to the ghosts and spirits in these ways and their devotion was gen-
+erous and substantial. But they worried that their descendants would notunderstand this and so they recorded their activities in books of bambooand silk and passed these down to succeeding generations. Still they wor-ried that these bamboo and silk books would decay over time and becomelost and that their descendants in succeeding ages would have no way tolearn of this. And so they repeated this knowledge by etching it on basinsand bowls and inscribing it in metal and stone. There was still some con-cern that their descendants in later generations would not be reverentenough to receive blessings and so in the books of the former kings andamong the teachings of the sages, within each length of silk text and everybook’s chapter, one finds numerous and repeated references to the existenceof ghosts and spritis. Why is this the case? Because the sage-kings were de-voted to the ghosts and spirits. Now when those who maintain that there
+are no ghosts and spirits say, ‘There certainly are no ghosts and spirits!’ thisopposes what the sage-kings were devoted to. And whatever opposes whatthe sage-kings were devoted to is not the way one becomes a gentleman.”
+Now those who maintain that there are no ghosts say, “Exactly what tex-
+tual sources are there to support your claims that in the books of the for-mer kings and among the teachings of the sages, within each length of silktext and every book’s chapter, one finds numerous and repeated referencesto the existence of ghosts and spirits?”96 ■moziPage 118
+----------------------------------------------------------------------------------------------------Our teacher Mozi says, “Among Zhou dynasty writings, such evidence
+is found within the Elegies.68The Elegies says,
+King Wen is on high,
+How he shines in Heaven!
+Though Zhou is an ancient land,Its mandate was just recently granted.
+Is not Zhou illustrious!
+Is the Lord’s mandate not timely!
+King Wen ascends and descends,He moves to the left and the right of the Lord.
+How fine, how fine is King Wen!
+His fame shall last forever!
+If ghosts and spirits do not exist, then after he had died, how could King
+Wen move to the left and the right of the Lord? This is how I know that
+there are records of ghosts in the books of the Zhou.
+“However, if only the books of the Zhou contained references to ghosts
+and one found no such references in the books of the Shang, then onecould not take such stories as reliable models. But when we examine worksfrom the Shang we find passages such as the following,
+Oh in the Xia of ancient times, before it was visited by misfor-
+tune, the various beasts and bugs below and even the soaringbirds above—not one behaved in an irregular manner. Howmuch less would one who had a human face have ventured tohave a deviant heart! Even among the ghosts and spirits of themountains and streams, none dared to be unruly.
+69
+We see that by being respectful and sincere, the rulers of the Xia united
+Heaven and Earth and protected the earth below. And if we consider why
+none of the ghosts and spirits of the mountains and streams dared to be un-ruly, we see that it was in order to assist Yu in his work. This is how I know
+that there are records of ghosts in the books of the Shang.mozi ■97
+68The quotation is from the ode “King Wen” in the Elegies section of the Odes(Mao #
+235). For a complete translation, see Legge, The She King , pp. 427–31.
+69The quoted passage is similar in content to parts of the “Instructions of Yi” section of
+the History . Cf. Legge, The Shoo King , pp. 193–94.Page 119
+----------------------------------------------------------------------------------------------------“However, if only the books of the Shang contained references to ghosts
+and one found no such references in the books of the Xia, then one could
+not take such stories as reliable models. So let us examine works from theXia. The “Declaration of Yu”
+70says,
+A great battle was being waged at Gan and in its midst the kingcalled for his six commanders of the left and right flanks togather around him. He then declared to the assembled armybelow, ‘This ruler of Hu
+71has destroyed and reviled the Five
+Phases72and has been remiss and abandoned the Three
+Spheres.73Heaven shall cut off his mandate.’
+Continuing he said, ‘This very afternoon I shall fight the
+ruler of Hu to decide what this day holds for us. You ministers,
+high officials, and common men, know that I do this not be-cause I desire his fields and treasures but only to respectfullycarry out the punishment decreed by Heaven. If those on theleft do not respectfully carry out the duties of the left and thoseon the right do not respectfully carry out the duties of the right,you will not be respectfully carrying out Heaven’s mandate. If
+you charioteers do not drive your chariots straight, you will not
+be respectfully carrying out Heaven’s mandate. [Today you arecarrying out Heaven’s mandate.] That is why the rewards forproper performance on this day will be conferred at the ances-tral shrine and the punishments for failure will be meted out atthe altar of soil.’
+Why were the rewards for proper performance conferred at the ancestralshrine? In order to show the ghosts and spirits that they are fairly appor-98 ■mozi
+70In the present version of the History there is a passage that shares some of the language
+and general thrust of the text Mozi quotes. This passage is called the “Declaration at Gan”
+with Gan being the place named in the Mozipassage. For the present version, see Legge, tr.
+The Shoo King, pp. 152–55.
+71A state ruled by relatives who shared the same surname as the Xia royal line. It was lo-
+cated in present-day Shanxi province.
+72These are the basic phases that the natural and human realms are supposed to pass
+through in orderly succession. They are wood, fire, earth, metal, and water. While a givenphase is in “ascendance,” the activities and phenomena associated with that phase are thoughtto guide the major course of events.
+73The realms of Heaven, earth, and human beings.Page 120
+----------------------------------------------------------------------------------------------------tioned. Why were the punishments for failure meted out at the altar of soil?
+In order to show the ghosts and spirits that the cases were decided properly.
+And so we see that the ancient sage-kings clearly believed that ghosts andspirits could reward the worthy and punish the wicked. This is why rewardswere conferred at the ancestral shrine and punishments meted out at the
+altar of soil. This is how I know that there are records of ghosts in the booksof the Xia.”
+And so, in former times, in the records of the Xia and in the following
+works of the Shang and the Zhou, there are numerous and repeated refer-ences to ghosts and spirits. Why is this the case? Because the sage-kingswere devoted to them. How can anyone who considers what these books
+say still doubt the existence of ghosts and spirits? . . .
+This is why our teacher Mozi says, “If the ability of ghosts and spirits to
+reward the worthy and punish the wicked could be firmly established as
+fact throughout the empire and among the common people, it wouldsurely bring order to the state and great benefit to the people. If state offi-cials are dishonest or corrupt in carrying out their duties or men andwomen engage in illicit relationships, the ghosts and spirits will see them!If the people turn to licentiousness, violence, rebellion, theft, or robbery
+and use weapons, poisons, water, or fire to attack travelers on the roads andbyways and rob their carriages, horses, coats, and furs in order to profit
+themselves—there are ghosts and spirits who will see them!
+74And so, state
+officials will not dare to be dishonest or corrupt. When they see good, theywill not dare to not reward it and when they see wickedness, they will notdare to withhold punishment.
+75Thereupon, there will be an end to the
+common people turning to licentiousness, violence, rebellion, theft, or rob-bery and using weapons, poisons, water, or fire to attack travelers on theroads and byways and rob their carriages, horses, coats, and furs in order to
+profit themselves. And so the world will be well-ordered.” . . .
+Our teacher Mozi says, “ ...I f  i t  w e r e  the case that ghosts and spirits do
+not really exist, then in offering sacrifices, all we would be doing is ex-pending resources of wine and millet. But though we would be expendingthese resources, we would not simply be pouring the wine into a ditch orgully or throwing the millet away. Primary clan members
+76and people liv-mozi ■99
+74This line also occurs at the very beginning of the chapter.
+75Cf. “Honoring the Worthy.” See Mozi, chapter 8, pp. 57–60.
+76That is, those who share the father’s surname and are in line to continue his family’s
+ancestral sacrifices.Page 121
+----------------------------------------------------------------------------------------------------ing out in the villages and towns all have a chance to drink the sacrificial
+wine and partake of the offerings. And so even if the ghosts and spirits didnot exist, these offerings would still be a means for welcoming and bring-ing together close family and gathering together and increasing fellowshipamong people living out in the villages and towns.”
+77...
+Chapter Thiry-Two: 
+A Condemnation of Musical Performances78
+Our teacher Mozi says, “The benevolent surely are those who devote them-
+selves to finding ways to promote what is beneficial to the world while elim-inating what is harmful; this is why they are proper models for humanconduct throughout the world. If something benefits the world then theywill do it. If it does not benefit the world then they will stop doing it. More-over, when the benevolent think about the people of the world, if there is
+something that attracts their eyes, delights their ears, pleases their palates,and gives comfort to their bodies but this thing can only be gotten by sac-rificing the people’s stock of food and clothing, they will not engage in it.”
+And so our teacher Mozi does not condemn music because he thinks
+that the sounds of bells, drums, zithers, and pipes are not pleasing, nor be-cause he thinks that inlaid and carved patterns and designs are not fine, norbecause he thinks that roasts of grain- and grass-fed meat are not delicious,nor because he thinks that high towers, lofty halls, and secluded pavilionsare not comfortable. Though his body knows the comfort of such places,his mouth the relish of such food, his eye the fineness of such patterns, andhis ears the pleasure of such sounds, nevertheless, he sees that it does notaccord with the practices of the sage-kings of old and does not promote thebenefit of the people in the world today. And so our teacher Mozi says,“Musical performances are wrong!”100 ■mozi
+77Mozi shows no evidence of doubting the existence of ghosts and spirits, but the more so-
+ciological explanation for ritual sacrifice he offers here anticipates Xunzi’s rich and wholly sec-
+ular defense of ritual. Cf. Xunzi’s “Discourse on Ritual.” See Xunzi, chapter 19, pp. 265–71.
+78Mozi criticizes the elaborate musical performances that were sponsored by many states in
+early China. These events included complex and expensive orchestras, elaborate dancing, andoften were accompanied by lavish feasts. He argues that these waste vast resources of time, ma-terial, and effort without producing any tangible results. He is not directly criticizing musicper se. On the other hand, he shows no sense that music serves any useful purpose in life. Fora meticulous and incisive study of the production, performance, ritual, and beliefs regardingancient Chinese chime bells, see Lothar von Falkenhausen, Suspended Music: Chime Bells in
+the Culture of Bronze Age China (Berkeley, CA: University of California Press, 1993).Page 122
+----------------------------------------------------------------------------------------------------Our teacher Mozi says, “These days, when kings, dukes, and other per-
+sons of high rank engage in the manufacture of musical instruments as a
+function of state, it is no simple matter like slicing through water or break-ing apart a piece of sod. Rather, they must heavily tax the people in orderto enjoy the sounds of bells, drums, zithers, and pipes. If the production ofthese instruments were truly analogous to the sage-kings’ production ofboats and carts, then I would not dare to condemn it. In ancient times, thesage-kings did indeed heavily tax the people in order to make boats andcarts. But once these were completed and the people asked what they couldbe used for, they were told that the boats could be used for traveling overwater while the carts could be used for traveling over land. By using theseconveyances, gentlemen could rest their feet while common people couldrest their shoulders and backs. And so why did the people give over their
+resources in order to produce boats and carts without considering it a bur-
+den or an imposition? Because they knew they would get something in re-turn that benefitted them. Now if musical instruments produced a similarreturn that benefitted the people then I would not dare to condemn them.
+“However, the present use of musical instruments imposes three hard-
+ships upon the people. Because of the expenditures involved in producingsuch instruments, those who are hungry are unable to get food, those whoare cold are unable to obtain clothing, and those who toil are not affordeda chance to rest. These are the three greatest hardships upon the people.But what if we play the great bells, strike up the drums, sound the zithers,
+blow the pipes, and dance with shields and battle axes? Will this enable thepeople to procure food or clothing? I believe that such performances willnot produce such results. But let us set aside such concerns for the mo-ment. For now great states attack lesser states and great families assaultlesser families, the strong rob the weak, the many do violence to the few,the clever deceive the simple, those of noble rank act arrogantly towardthose of humble rank, and rebels and bandits flourish and cannot bestopped. But what if we play the great bells, strike up the drums, sound thezithers, blow the pipes, and dance with shields and battle axes? Will thisbring order to the chaos that presently reigns in the world? I believe thatsuch performances will not produce such results.”
+This is why our teacher Mozi says, “If we look to see whether heavily
+taxing the people to produce the sounds of great bells, drums, zithers, andpipes promotes the benefit of the people of the world and eliminates whatis harmful to them, we see that it offers no such help.”
+This is why our teacher Mozi says, “Musical performances are wrong!”mozi ■101Page 123
+----------------------------------------------------------------------------------------------------Our teacher Mozi says, “These days, when kings, dukes, and great men
+sit up in their raised halls and broad pavilions and look down upon the
+great bells, the bells look like nothing more than inverted cauldrons. Ifthere is no one to strike the great bells, how could they take delight inthem? The bells must be struck in order to be enjoyed. But they cannot em-ploy the very old or the very young to strike the bells. For the ears and eyesof such people are not sharp and clear, their limbs are not nimble andstrong, the sounds they produce are not harmonious, and they cannot fol-low the complicated turns in the score. And so kings, dukes, and great menmust employ people in their prime, for their ears and eyes are sharp andclear, their limbs are nimble and strong, the sounds they produce are har-monious, and they can follow the complicated turns in the performance. Ifthey employ men to make music, then these men must abandon their workof ploughing, planting, and cultivation. If they employ women to makemusic then these women must abandon their work of spinning, weaving,and sewing. These days, when kings, dukes, and great men put on musicalperformances, they divert such vast resources that could be used to producefood and clothing for the people.”
+This is why our teacher Mozi says, “Musical performances are wrong!”Our teacher Mozi says, “Now let us suppose that the great bells, drums,
+zithers, and lutes have all been properly prepared. What pleasure wouldkings, dukes, and great men find in reverently listening to them all bythemselves? Their enjoyment must come from listening to them in thecompany of common folk or gentlemen. But if they listen in the companyof gentlemen, then those gentlemen must neglect the business of govern-ing. And if they listen in the company of common folk, then those folkmust abandon their proper work. These days, when kings, dukes, and greatmen put on musical performances, they divert such vast resources thatcould be used to produce food and clothing for the people.”
+This is why our teacher Mozi says, “Musical performances are wrong!”Our teacher Mozi says, “In ancient times, Duke Kang of Qi
+79found ex-
+citement and delight in the performance of the Dance of Wan.80The per-
+formers of the dance were not permitted to wear coarse and simple clothingnor could they eat plain or common food because it was said that, ‘If theirfood and drink is not fine, their faces and complexion will be unworthy to102 ■mozi
+79Ruler of the state of Qi. His reign dates are 404–379 B.C.E.
+80A choreographed performance with musical accompaniment. For a description, see
+Waley, The Book of Songs , pp. 338–40.Page 124
+----------------------------------------------------------------------------------------------------look at. If their clothing is not fine, their figures and movements will be
+unworthy of view.’ And so their food had to be only the finest grains andmeats and their clothing had to be only embroidered silk. They neverworked to produce their own food and clothing but always were supportedby the work of others.”
+This is why our teacher Mozi says, “These days, when kings, dukes, and
+great men put on musical performances, they divert such vast resourcesthat could be used to produce food and clothing for the people.”
+This is why our teacher Mozi says, “Musical performances are wrong!”Our teacher Mozi says, “Now human beings certainly are different from
+the various kinds of birds, beasts, and bugs that one can find in the worldtoday. The various birds, beasts, and bugs rely upon their feathers and furfor their clothing, their hoofs and claws for their leggings and shoes, andgrass and water for their food and drink. And so even if the males do notplough and cultivate the land and even if the females do not spin andweave, these creatures are still assured of having food and clothing. Human
+beings differ in this respect. Those who labor upon the land survive, whilethose who do not perish. If gentlemen do not exert themselves in pursuingtheir duties at court, then the laws and administration will fall into chaos.If common folk do not exert themselves in carrying out their work, there
+will not be enough material goods.
+“Now if men of rank and gentlemen in the world today believe that
+what I say is not true, let us try enumerating the allotted tasks that are pur-sued throughout the world in order to see the harm done by musicalpreformances.
+“Kings, dukes, and high officials begin their work at court early in the
+day and retire late in the evening, listening to litigation and carrying outthe administration of government—these are their allotted tasks. Men ofrank and gentlemen exhaust the strength of their limbs and exert everyounce of their wisdom attending to their official duties at court and col-lecting taxes and levies out in the passes, markets, mountains, forests, lakes,and rivers in order to fill the state’s granaries and treasuries—these are theirallotted tasks. Farmers go out to the fields at dawn and return at dusk,ploughing, planting, cultivating, and reaping great harvests of grain andother produce—these are their allotted tasks. Women rise at dawn and re-tire in the evening, spinning and weaving to produce hemp, silk, linen, andother types of cloth—these are their allotted tasks.
+“Now if those who serve as kings, dukes, and high officials delight in
+musical performances and spend their time listening to them, they will notmozi ■103Page 125
+----------------------------------------------------------------------------------------------------be able to begin their work at court early in the day and retire late in the
+evening, listening to litigation and carrying out the administration of gov-ernment. As a result, the state will fall into chaos and the altar of grain willbe in jeopardy. If men of rank and gentlemen delight in musical perform-ances and spend their time listening to them, they will not be able to ex-haust the strength of their limbs and exert every ounce of their wisdomattending to their official duties at court and collecting taxes and levies outin the passes, markets, mountains, forests, lakes, and rivers in order to fillthe state’s granaries and treasuries. As a result, the granaries and treasurieswill not be full. If farmers delight in musical performances and spend theirtime listening to them, they will not be able to go out to the fields at dawnand return at dusk, ploughing, planting, cultivating, and reaping great har-vests of grain and other produce. As a result, the supply of food will be in-
+sufficient. If women delight in musical performances and spend their timelistening to them, they will not be able to rise at dawn and retire in theevening, spinning and weaving to produce hemp, silk, linen, and othertypes of cloth. As a result, there will not be an adequate supply of cloth.What is the cause of great men abandoning the administration of the gov-ernment and the common people neglecting their work? It is music!”
+This is why our teacher Mozi says, “Musical performances are wrong!”Our teacher Mozi says, “How do I know that this is so? Among
+the works of the former kings, there is the following in Tang’s Official
+Punishments ,
+81
+To allow constant dancing in one’s hall is called Shamen’s Fancy .
+If gentlemen commit this offense they are to be fined two bolts
+of silk. If it is a commoner, the fine is two hundred measures ofyellow thread.
+82
+The text goes on to say,
+Alas! The dancing goes on and on! The sound of the pipes isloud and clear! The Lord on High no longer supports him. He104 ■mozi
+81There is no such section in the present History but in the chapter called “Instructions
+of Yin,” there is a passage that shares much of the language and general thrust of Mozi’s quo-
+tation. See Legge, The Shoo King , p. 196.
+82The text of the last line is garbled and the translation is tentative.Page 126
+----------------------------------------------------------------------------------------------------will lose the nine realms.83The Lord on High no longer acco-
+modates him and will send down a hundred calamities. His
+family will be ruined and annihilated.
+If we look into why he lost the nine realms, we see it is simply because
+he promoted musical performances. The Wu Guan84says,
+Qi85then abandoned himself to lust and music; he drank and
+ate in the wilds. Qiang! Qiang! The flutes and chimes soundedvigorously! He sank, besotted with wine! He ate gluttonously inthe wilds! The Dance of Wan was elegant and fine and its per-formance was heard in Heaven. But Heaven did not approve.
+And so, above, Heaven and the ghosts did not approve and, below, the peo-ple were not benefitted.”
+This is why our teacher Mozi says, “If men of rank and the gentlemen
+of the world really want to promote what is beneficial to the world andeliminate what is harmful to it, then they will prohibit and put an end tothis thing called music!”
+Chapter Thirty-Five: 
+A Condemnation of Fatalism
+Our teacher Mozi says, “The kings, dukes, and great officials who now rule
+the various states all want their states to be wealthy, their populations great,and their administrations orderly, and yet instead of wealth they getpoverty, instead of great populations they get meager ones, and instead oforder they get chaos. In this way they fundamentally miss what they desireand get what they dislike.”
+86mozi ■105
+83“He” refers to the tyrant Jie. The point of the passage is that Jie’s personal debauchery
+testifies to his low character, which makes him offensive to Heaven and unfit to rule. Thus
+it justifies Tang’s attack on him.
+84An unknown text.
+85Qi is the son of Yu, founder of the Xia dynasty. He succeeded his father to the throne.
+The point of the passage is to illustrate his bad moral character that makes him offensive toHeaven and unfit to rule.
+86These same lines occur as the opening of “Honoring the Worthy.” See Mozi, Chap-
+ter 8, p. 57.Page 127
+----------------------------------------------------------------------------------------------------What is the reason for this?
+Our teacher Mozi says, “This is because, among the people, there are so
+many who maintain a belief in fatalism.Those who believe in fatalism say,‘If the state is fated to be rich, then it will be rich; if it is fated to be poor,then it will be poor. If the state is fated to have a large population, then thepopulation will be large; if it is fated to have a meager population, thenthe population will be meager. If the state is fated to be well ordered,then it will be well ordered; if it is fated to be in chaos, then it will be inchaos. If one is fated to live a long time, then one will live a long time; ifone is fated to die young, then one will die young. If something is fated tooccur, then no matter how hard one tries to change this, what good will itdo?’ Above they use this doctrine to persuade the kings, dukes, and greatofficials and below they deploy it to interfere with work of the people.Therefore, those who maintain a belief in fatalism are not benevolent andtheir claims must be carefully examined.”
+Since this is the case, how are we to go about carefully examining their
+claims?
+Our teacher Mozi says, “When one advances claims, one must first es-
+tablish a standard of assessment. To make claims in the absence of such astandard is like trying to establish on the surface of a spinning potter’swheel where the sun will rise and set.
+87Without a fixed standard, one can-
+not clearly ascertain what is right and wrong or what is beneficial andharmful. And so, in assessing claims, one must use the three gauges.”
+88
+What are the “three gauges?”Our teacher Mozi says, “The gauges of precedent, evidence, and appli-
+cation.”
+How does one assess a claim’s precedents?106 ■mozi
+87This describes the practice of determining how far from true east and west the sun
+would rise and set. It consisted of aligning a set of gnomons (see the following note) with
+the rising and setting sun and using these to triangulate true east and west. It would be im-possible to carry out this procedure on the surface of a spinning potter’s wheel just as itwould be impossible to use such a wheel as a sundial. For a description and discussion ofthis procedure and other uses of such gnomon, see A. C. Graham, Later Mohist Logic, Ethics
+and Science (Hong Kong: The Chinese University of Hong Kong, 1978), pp. 370–71, and
+Joseph Needham, Science and Civilization in China , vol. 3 (London: Cambridge University
+Press, 1959), pp. 284–302.
+88The word I have translated as “gauge” ( biaoh) is a gnomon used to “gauge” the di-
+rection and movement of the sun’s shadow. For an illustration, see the discussion in Need-
+ham or the web site for this volume.Page 128
+----------------------------------------------------------------------------------------------------Our teacher Mozi says, “One looks up for precedents among the affairs
+and actions of the ancient sage-kings.”
+How does one assess a claim’s evidence?
+Our teacher Mozi says, “One looks down to examine evidence of what
+the people have heard and seen.”
+How does one assess a claim’s application?
+Our teacher Mozi says, “One implements it as state policy and sees
+whether or not it produces benefit for the state, families, and people. These
+are what are called the three gauges for assessing claims.” . . .mozi ■107
