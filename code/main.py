@@ -1,8 +1,3 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
 from PyPDF2 import PdfFileReader, PdfFileWriter
 import re
 
@@ -11,12 +6,13 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from collections import Counter
 
-
-#mozi_range = (77, 128)
-#file_path = 'reading_src.pdf'
+####################################
+#WORKING WITH PDF
 def extract_text_from_pdf(file_path, pages = (0, 10), file_out = "result"):
     """
-    takes PDF file as input and extract all possible text (into txt format)
+    Takes PDF file as input and extract all possible text (into txt format)
+    Example (extracting Mozi): mozi_range = (77, 128), mozi_path = 'reading_src.pdf'
+    result = extract_text_from_pdf(mozi_path, mozi_range, 'mozi_res.txt')
     """
     pdf = PdfFileReader(file_path)
     with open(file_out, 'w') as f:
@@ -32,9 +28,11 @@ def extract_text_from_pdf(file_path, pages = (0, 10), file_out = "result"):
                 f.write(''.center(100, '-'))
                 f.write(txt)
         f.close()
-        
 
-def format_text(file_path, out_path):
+
+####################################
+# CLEANING TXT FILE
+def clean_text(file_path, out_path):
     """
     :param file_path: source file
     :param out_path: output file
@@ -52,13 +50,15 @@ def format_text(file_path, out_path):
                 
             
 
+####################################
+#TRIVIAL TEXT ANALYSIS (WORD COUNT):
+
 stop_words_file = 'data/stoplist_long.txt'
 stop_words = []
 with open(stop_words_file, "r") as f:
     for line in f:
         stop_words.extend(line.split()) 
 
-        
 
 def preprocess(raw_text):
     #regular expression keeping only letters 
@@ -66,7 +66,6 @@ def preprocess(raw_text):
 
     # convert to lower case and split into words -> convert string into list ( 'hello world' -> ['hello', 'world'])
     words = letters_only_text.lower().split()
-
     cleaned_words = []
     lemmatizer = PorterStemmer() #plug in here any other stemmer or lemmatiser you want to try out
     
@@ -85,7 +84,7 @@ def preprocess(raw_text):
     return " ".join(stemmed_words)
 
 
-def count_analysis2(file_path, limit = 20):
+def count_analysis(file_path, limit = 20):
 
     with open(file_path, 'r') as file:
         text = file.read().replace('\n', '')
